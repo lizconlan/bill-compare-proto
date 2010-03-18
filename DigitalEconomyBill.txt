@@ -1,6 +1,6 @@
 Digital Economy Bill [HL]
 
-[AS AMENDED IN COMMITTEE]
+[AS AMENDED ON REPORT]
 
 
 
@@ -24,24 +24,24 @@ Online infringement of copyright
 11    Obligations to limit internet access
 12    Code by OFCOM about obligations to limit internet access
 13    Contents of code about obligations to limit internet access
-14    Enforcement of obligations
-15    Sharing of costs
-16    Interpretation and consequential provision
-17    Power to amend copyright provisions
+14    Subscriber appeals
+15    Enforcement of obligations
+16    Sharing of costs
+17    Interpretation and consequential provision
+18    Preventing access to specified online locations for the prevention of online
+copyright infringement
 
 Powers in relation to internet domain registries
-18    Powers in relation to internet domain registries
-19    Appointment of manager of internet domain registry
-20    Application to court to alter constitution of internet domain registry
+19    Powers in relation to internet domain registries
+20    Appointment of manager of internet domain registry
+21    Application to court to alter constitution of internet domain registry
 
 Channel Four Television Corporation
-21    Functions of C4C in relation to media content
-22    Monitoring and enforcing C4C's media content duties
+22    Functions of C4C in relation to media content
+23    Monitoring and enforcing C4C's media content duties
 
 Independent television services
-23    Determination of Channel 3 licence areas
-24    Initial expiry date for Channel 3 and 5 and public teletext licences
-25    Initial expiry date: consequential provision
+24    Determination of Channel 3 licence areas
 
 
 
@@ -50,53 +50,58 @@ Independent television services
 
 
 
-26   Report by OFCOM on public teletext service
-27   Power to remove OFCOM's duty to secure provision of public teletext service
-28   Appointed providers of regional or local news
-29   Broadcasting of programmes in Gaelic
+25   Initial expiry date for Channel 3 and 5 and public teletext licences
+26   Initial expiry date: consequential provision
+27   Report by OFCOM on public teletext service
+28   Power to remove OFCOM's duty to secure provision of public teletext service
+29   Appointed providers of regional or local news
+30   Broadcasting of programmes in Gaelic
 
 Independent radio services
-30   Digital switchover
-31   Renewal of national radio licences
-32   Renewal and variation of local radio licences
-33   Variation of licence period following renewal
-34   Content and character of local sound broadcasting services
-35   Local radio multiplex services: frequency and licensed area
-36   Renewal of radio multiplex licences
+31   Digital switchover
+32   Renewal of national radio licences
+33   Renewal and variation of local radio licences
+34   Variation of licence period following renewal
+35   Content and character of local sound broadcasting services
+36   Radio multiplex services: frequency and licensed area
+37   Renewal of radio multiplex licences
 
 Regulation of television and radio services
-37   Application of regulatory regimes to broadcasters
+38   Application of regulatory regimes to broadcasters
 
 Access to electromagnetic spectrum
-38   Payment for licences
-39   Enforcement of licence terms etc
+39   Payment for licences
+40   Enforcement of licence terms etc
 
 Video recordings
-40   Classification of video games etc
-41   Designated authority for video games etc
+41   Classification of video games etc
+42   Designated authority for video games etc
 
 Copyright and performers' property rights: licensing and penalties
-42   Extension and regulation of licensing of copyright and performers' rights
-43   Increase of penalties relating to infringing articles or illicit recordings
+43   Extension and regulation of licensing of copyright and performers' rights
+44   Increase of penalties relating to infringing articles or illicit recordings
 
 Public lending right
-44   Public lending right
+45   Public lending right
 
 General
-45   Power to make consequential provision etc
-46   Repeals
-47   Extent
-48   Commencement
-49   Short title
+46   Power to make consequential provision etc
+47   Repeals
+48   Extent
+49   Commencement
+50   Short title
 
 
 
 
-Schedule 1   --   Classification of video games etc: supplementary provision
-Schedule 2   --   Licensing of copyright and performers' property rights
-Part 1   --   Regulation of licensing bodies
-Part 2   --   Performers' property rights
-Schedule 3   --   Repeals
+Schedule 1 -- Classification of video games etc: supplementary provision
+Schedule 2 -- Licensing of copyright and performers' property rights
+Part 1 -- Regulation of licensing bodies
+
+
+
+Part 2 -- Performers' property rights
+Schedule 3 -- Repeals
 
 
 
@@ -106,7 +111,7 @@ A
 
 
 BILL
-[AS AMENDED IN COMMITTEE]
+[AS AMENDED ON REPORT]
 
 TO
 
@@ -137,12 +142,12 @@ amended as follows.
 (2)     After subsection (1) insert--
 "(1A)   In performing their duties under subsection (1), OFCOM must have
 particular regard, in all cases, to the need--
-(a) to promote appropriate levels of investment in electronic
-communications networks;
-(b) to promote appropriate levels of investment in public service
-media content; and
-(c) for the investment to be efficient, wherever possible."
-
+(a) to promote investment in electronic communications networks,
+where appropriate;
+(b) to promote investment in public service media content, where
+appropriate; and
+(c) for the investment to be efficient (taking account of the interests
+of citizens and the interests of consumers in relevant markets)."
 
 
 
@@ -197,9 +202,9 @@ months after the specified day.
 (b)    be sent to the Secretary of State by OFCOM as soon as
 practicable after the end of the relevant period.
 (4)   "Relevant period" means--
-(a) the period of 2 years beginning with the day specified in the first
+(a) the period of 3 years beginning with the day specified in the first
 report, and
-(b) each subsequent period of 2 years beginning with the end of the
+(b) each subsequent period of 3 years beginning with the end of the
 previous period.
 (5)   Where there is a significant change in connection with a matter listed in
 section 134B(1) or (2) and OFCOM consider that the change should be
@@ -213,6 +218,16 @@ on--
 of the United Kingdom, or
 (b) the general public in the United Kingdom or a part of the United
 Kingdom.
+(7)   OFCOM must publish every report under this section--
+(a) as soon as practicable after they send it to the Secretary of State,
+and
+(b) in such manner as they consider appropriate for bringing it to
+the attention of persons who, in their opinion, are likely to have
+an interest in it.
+(8)   OFCOM may exclude information from a report when it is published
+under subsection (7) if they consider that it is information that they
+could refuse to disclose in response to a request under the Freedom of
+Information Act 2000.
 134B Networks and services matters
 (1)   For the purposes of section 134A, the electronic communications
 networks matters are--
@@ -231,9 +246,10 @@ are not available, including the steps that have been or are to be
 taken to maintain or improve the level of availability,
 (h) the preparations made by providers of UK networks for
 responding to an emergency, including preparations for
+
 restoring normal operation of UK networks disrupted by the
 emergency, and
-(i) the standard of the different UK networks in comparison with
+(i)   the standard of the different UK networks in comparison with
 electronic communications networks provided in a range of
 other countries, having regard, in particular, to their coverage
 and capacity.
@@ -241,20 +257,19 @@ and capacity.
 services matters are--
 (a) the use of the electromagnetic spectrum for wireless telegraphy
 in the United Kingdom,
-
-(b)    the different types of electronic communications service
+(b) the different types of electronic communications service
 provided in the United Kingdom ("UK services"),
-(c)   the geographic coverage of the different UK services,
-(d)    the proportion of the population covered by the different UK
+(c) the geographic coverage of the different UK services,
+(d) the proportion of the population covered by the different UK
 services,
-(e)    the amount of time for which the different UK services are and
+(e) the amount of time for which the different UK services are and
 are not available, including the steps that have been or are to be
 taken to maintain or improve the level of availability,
-(f)    the preparations made by providers of UK services for
+(f) the preparations made by providers of UK services for
 responding to an emergency, including preparations for
 restoring normal operation of UK services disrupted by the
 emergency, and
-(g)    the standard of the different UK services in comparison with
+(g) the standard of the different UK services in comparison with
 electronic communications services provided in a range of other
 countries.
 (3)   The preparations referred to in subsections (1)(h) and (2)(f) include--
@@ -277,13 +292,24 @@ relating to internet domain names, and
 (b) send the report to the Secretary of State as soon as practicable.
 (2)   The specified matters may, in particular, include matters relating to--
 (a) the allocation and registration of internet domain names, and
-(b) the misuse of internet domain names."
-(2)   In section 135(3) of that Act (information required for purposes of Chapter 1
+(b) the misuse of internet domain names.
+(3)   OFCOM must publish every report under this section--
+
+(a)    as soon as practicable after they send it to the Secretary of State,
+and
+(b)    in such manner as they consider appropriate for bringing it to
+the attention of persons who, in their opinion, are likely to have
+an interest in it.
+(4)   OFCOM may exclude information from a report when it is published
+under subsection (3) if they consider that it is information that they
+could refuse to disclose in response to a request under the Freedom of
+Information Act 2000."
+(2)    In section 135(3) of that Act (information required for purposes of Chapter 1
 functions), after paragraph (ib) insert--
 "(ic) preparing a report under section 134A;
 (id) preparing a report under section 134C;".
 
-3      OFCOM reports on media content
+3         OFCOM reports on media content
 After section 264 of the Communications Act 2003 insert--
 "264A OFCOM reports: wider review and reporting obligations
 (1)   When carrying out a review under section 264 for a period, OFCOM
@@ -316,9 +342,10 @@ services.
 "media services" means any of the following services that are
 available to members of the public in all or part of the United
 Kingdom--
-(a) television and radio services,
-(b) on-demand programme services, and
-(c) other services provided by means of the internet where
+
+(a)     television and radio services,
+(b)     on-demand programme services, and
+(c)     other services provided by means of the internet where
 there is a person who exercises editorial control over the
 material included in the service.
 (6)   The services that are to be taken for the purposes of this section to be
@@ -351,43 +378,63 @@ owner's copyright;
 (b) includes a description of the apparent infringement;
 (c) includes evidence of the apparent infringement that shows the
 subscriber's IP address and the time at which the evidence was
+gathered;
+(d) is sent to the internet service provider within the period of 1
+month beginning with the day on which the evidence was
 gathered; and
-(d) complies with any other requirement of the initial obligations
+(e) complies with any other requirement of the initial obligations
 code.
 (4)   An internet service provider who receives a copyright infringement
 report must notify the subscriber of the report if the initial obligations
 code requires the provider to do so.
-(5)   A notification under subsection (4) must include--
-(a) a statement that it is sent under this section in response to a
-copyright infringement report made by a copyright owner;
-(b) a description of the apparent infringement;
-(c) evidence of the apparent infringement;
-(d) information about copyright and its purpose;
-(e) advice about how to obtain lawful access to copyright works;
-(f) advice about the protection of electronic communications
-networks that use wireless telegraphy; and
-(g) anything else that the initial obligations code requires it to
-include.
-(6)   The things that may be required under subsection (5)(g), whether in
-general or in a particular case, include in particular statements that--
-(a) information about the apparent infringement may be kept by
-the internet service provider;
 
-(b)    the copyright owner may require the provider to disclose which
-copyright infringement reports made by the owner to the
-provider relate to the subscriber;
-(c)    following such a disclosure, the copyright owner may apply to
-a court to learn the subscriber's identity and may bring
-proceedings against the subscriber for copyright infringement;
-(d)    the number and nature of copyright infringement reports
-relating to the subscriber may be taken into account for the
-purposes of any technical measures.
-(7)   In this section "notify", in relation to a subscriber, means send a
+(5)   A notification under subsection (4) must be sent to the subscriber
+within the period of 1 month beginning with the day on which the
+provider receives the report.
+(6)   A notification under subsection (4) must include--
+(a) a statement that it is sent under this section in response to a
+copyright infringement report;
+(b) the name of the copyright owner who made the report;
+(c) a description of the apparent infringement;
+(d) evidence of the apparent infringement that shows the
+subscriber's IP address and the time at which the evidence was
+gathered;
+(e) information about subscriber appeals and the grounds on
+which they may be made;
+(f) information about copyright and its purpose;
+(g) advice, or information enabling the subscriber to obtain advice,
+about how to obtain lawful access to copyright works;
+(h) advice, or information enabling the subscriber to obtain advice,
+about steps that a subscriber can take to protect an internet
+access service from unauthorised use; and
+(i) anything else that the initial obligations code requires it to
+include.
+(7)   For the purposes of subsection (6)(h) the internet service provider must
+take into account the suitability of different protection for subscribers
+in different circumstances.
+(8)   The things that may be required under subsection (6)(i), whether in
+general or in a particular case, include in particular--
+(a) a statement that information about the apparent infringement
+may be kept by the internet service provider;
+(b) a statement that the copyright owner may require the provider
+to disclose which copyright infringement reports made by the
+owner to the provider relate to the subscriber;
+(c) a statement that, following such a disclosure, the copyright
+owner may apply to a court to learn the subscriber's identity
+and may bring proceedings against the subscriber for copyright
+infringement; and
+(d) where the requirement for the provider to send the notification
+arises partly because of a report that has already been the
+subject of a notification under subsection (4), a statement that
+the number of copyright infringement reports relating to the
+subscriber may be taken into account for the purposes of any
+technical measures.
+(9)   In this section "notify", in relation to a subscriber, means send a
 notification to the electronic or postal address held by the internet
 service provider for the subscriber (and sections 394 to 396 do not
 apply)."
 
-5      Obligation to provide infringement lists to copyright owners
+5   Obligation to provide infringement lists to copyright owners
 After section 124A of the Communications Act 2003 insert--
 "124B Obligation to provide copyright infringement lists to copyright
 owners
@@ -402,13 +449,11 @@ copyright infringement reports made by the owner to the
 provider relate to the subscriber, but
 (b) does not enable any subscriber to be identified.
 (3)   A subscriber is a "relevant subscriber" in relation to a copyright owner
-if--
-(a) the owner has made one or more copyright infringement
-reports in relation to the subscriber; and
-(b) the number of the reports has reached the threshold set in the
-initial obligations code."
+and an internet service provider if copyright infringement reports
+made by the owner to the provider in relation to the subscriber have
+reached the threshold set in the initial obligations code."
 
-6      Approval of code about the initial obligations
+6   Approval of code about the initial obligations
 After section 124B of the Communications Act 2003 insert--
 "124C Approval of code about the initial obligations
 (1)   The obligations of internet service providers under sections 124A and
@@ -418,7 +463,6 @@ After section 124B of the Communications Act 2003 insert--
 regulating the initial obligations; and
 (b) that it would be appropriate for them to approve the code for
 that purpose,
-
 they may by order approve it, with effect from the date given in the
 order.
 (3)   The provision that may be contained in a code and approved under this
@@ -436,17 +480,18 @@ unless the owner has made arrangements with an internet service
 provider regarding--
 (a) the number of copyright infringement reports that the owner
 may make to the provider within a particular period; and
-(b) payment in advance of a contribution towards meeting costs
+
+(b)    payment in advance of a contribution towards meeting costs
 incurred by the provider.
 (5)   The provision mentioned in subsection (3)(a) may also, in particular,
 provide that--
 (a) except as provided by the code, rights and obligations do not
 apply in relation to an internet service provider unless the
 number of copyright infringement reports the provider receives
-within a particular period reaches a threshold set out in the
-code;
-(b) once the threshold is reached, rights or obligations apply in
-relation to a time before it was reached.
+within a particular period reaches a threshold set in the code;
+and
+(b) if the threshold is reached, rights or obligations apply with
+effect from the date when it is reached or from a later time.
 (6)   OFCOM must not approve a code under this section unless satisfied
 that it meets the criteria set out in section 124E.
 (7)   Not more than one approved code may have effect at a time.
@@ -456,15 +501,14 @@ subsection (2)--
 (a) approve modifications that have been made to an approved
 code; or
 (b) withdraw their approval from an approved code,
-with effect from a date given in the order, and must do so if the code
+with effect from the date given in the order, and must do so if the code
 ceases to meet the criteria set out in section 124E.
-(10)   The consent of the Secretary of State is required for the approval of a
+(10)    The consent of the Secretary of State is required for the approval of a
 code or the modification of an approved code.
-(11)   An order made by OFCOM under this section approving a code or
+(11)    An order made by OFCOM under this section approving a code or
 modification must set out the code or modification.
-(12)   Section 403 applies to the power of OFCOM to make an order under
+(12)    Section 403 applies to the power of OFCOM to make an order under
 this section.
-
 (13)    A statutory instrument containing an order made by OFCOM under
 this section is subject to annulment in pursuance of a resolution of
 either House of Parliament."
@@ -481,7 +525,8 @@ initial obligations.
 before the end of--
 (a) the period of six months beginning with the day on which
 sections 124A and 124B come into force, or
-(b) such longer period as the Secretary of State may specify by
+
+(b)   such longer period as the Secretary of State may specify by
 notice to OFCOM.
 (3)   The Secretary of State may give a notice under subsection (2)(b) only if
 it appears to the Secretary of State that it is not practicable for OFCOM
@@ -491,29 +536,31 @@ under subsection (2)(b).
 (4)   A code under this section may do any of the things mentioned in
 section 124C(3) to (5).
 (5)   A code under this section may also--
-(a) establish one or more bodies corporate with the capacity to
-make their own rules and establish their own procedures;
-(b) determine the jurisdiction of a body established by the code or,
-for the purposes of the code, of any other person;
-(c) confer jurisdiction with respect to any matter on OFCOM
-themselves (but this is subject to anything else in or under the
-copyright infringement provisions that relates to appeals by
-subscribers);
-(d) provide for a person on whom jurisdiction is conferred to make
+(a) confer jurisdiction with respect to any matter (other than
+jurisdiction to determine appeals by subscribers) on OFCOM
+themselves;
+(b) provide for OFCOM, in exercising such jurisdiction, to make
 awards of compensation, to direct the reimbursement of costs,
 or to do both;
-(e) provide for such a person to enforce, or to participate in the
+(c) provide for OFCOM to enforce, or to participate in the
 enforcement of, any awards or directions made under the code;
-(f) make other provision for the enforcement of such awards and
+(d) make other provision for the enforcement of such awards and
+directions;
+(e) establish a body corporate, with the capacity to make its own
+rules and establish its own procedures, for the purpose of
+determining subscriber appeals;
+(f) provide for a person with the function of determining
+subscriber appeals to enforce, or to participate in the
+enforcement of, any awards or directions made by the person;
+(g) make other provision for the enforcement of such awards and
 directions; and
-(g) make other provision for the purpose of regulating the initial
+(h) make other provision for the purpose of regulating the initial
 obligations.
 (6)   OFCOM must not make a code under this section unless they are
 satisfied that it meets the criteria set out in section 124E.
 (7)   OFCOM must--
 (a) keep a code under this section under review; and
-
-(b)   by order make any amendment of it that is necessary to ensure
+(b) by order make any amendment of it that is necessary to ensure
 that while it is in force it continues to meet the criteria set out in
 section 124E.
 (8)   The consent of the Secretary of State is required for the making or
@@ -524,85 +571,95 @@ this section.
 this section is subject to annulment in pursuance of a resolution of
 either House of Parliament."
 
-8    Contents of initial obligations code
+8      Contents of initial obligations code
 After section 124D of the Communications Act 2003 insert--
 "124E Contents of initial obligations code
 (1)   The criteria referred to in sections 124C(6) and 124D(6) are--
 (a) that the code makes the required provision about copyright
 infringement reports (see subsection (2));
 (b) that it makes the required provision about the notification of
-subscribers (see subsection (3));
-(c) that it makes provision about how internet service providers are
+subscribers (see subsections (3) and (4));
+(c) that it sets the threshold applying for the purposes of
+determining who is a relevant subscriber within the meaning of
+section 124B(3) (see subsections (5) and (6));
+(d) that it makes provision about how internet service providers are
 to keep information about subscribers;
-(d) that it limits the time for which they may keep that information;
-(e) that it makes any provision about contributions towards
+(e) that it limits the time for which they may keep that information;
+(f) that it makes any provision about contributions towards
 meeting costs that is required to be included by an order under
-section 124L;
-(f) that the requirements concerning enforcement and related
-matters are met in relation to the code (see subsection (4));
-(g) that the provisions of the code are objectively justifiable in
+section 124M;
+(g) that the requirements concerning administration and
+enforcement are met in relation to the code (see subsections (7)
+and (8));
+(h) that the requirements concerning subscriber appeals are met in
+relation to the code (see section 124K);
+(i) that the provisions of the code are objectively justifiable in
 relation to the matters to which it relates;
-(h) that those provisions are not such as to discriminate unduly
+(j) that those provisions are not such as to discriminate unduly
 against particular persons or against a particular description of
 persons;
-(i) that those provisions are proportionate to what they are
-intended to achieve; and
-(j) that, in relation to what those provisions are intended to
-achieve, they are transparent.
+(k) that those provisions are proportionate to what they are
+intended to achieve;
+(l) that, in relation to what those provisions are intended to
+achieve, they are transparent; and
+(m) that takes into account circumstances whereby injunctions
+under section 97B as inserted by section 18 of the Digital
+Economy Act 2010 may be brought.
 (2)   The required provision about copyright infringement reports is
 provision that specifies--
 (a) requirements as to the means of obtaining evidence of
 infringement of copyright for inclusion in a report;
-(b) the standard of evidence that must be included;
-(c) the required form of the report; and
-(d) a time limit for making the report.
+(b) the standard of evidence that must be included; and
+(c) the required form of the report.
 (3)   The required provision about the notification of subscribers is
 provision that specifies, in relation to a subscriber in relation to whom
 an internet service provider receives one or more copyright
 infringement reports--
-
-(a)    requirements as to the means by which the provider identifies
+(a) requirements as to the means by which the provider identifies
 the subscriber;
-(b)    which of the reports the provider must notify the subscriber of;
+(b) which of the reports the provider must notify the subscriber of;
 and
-(c)    requirements as to the form, contents and means of the
+
+(c)   requirements as to the form, contents and means of the
 notification in each case.
-(4)   The requirements concerning enforcement and related matters are--
-(a) that OFCOM or another person has, under the code, the
-functions of administering and enforcing it, including the
-function of resolving copyright infringement disputes;
-(b) that any such other person is sufficiently independent of
-internet service providers and copyright owners;
-(c) that there is a person who, under the code, has the function of
-determining subscriber appeals;
-(d) that that person is sufficiently independent of internet service
-providers, copyright owners and OFCOM; and
-(e) that there are adequate arrangements under the code for the
-costs of the carrying out by a person mentioned in paragraph (a)
-or (c) of functions in relation to the code to be met by internet
-service providers and copyright owners.
-(5)   The provision mentioned in subsection (4) may include, in particular--
+(4)   The provision mentioned in subsection (3) must not permit any
+copyright infringement report received by an internet service provider
+more than 12 months before the date of a notification of a subscriber to
+be taken into account for the purposes of the notification.
+(5)   The threshold applying in accordance with subsection (1)(c) may,
+subject to subsection (6), be set by reference to any matter, including in
+particular one or more of--
+(a) the number of copyright infringement reports;
+(b) the time within which the reports are made;
+(c) the time of the apparent infringements to which they relate; and
+(d) any other matter.
+(6)   The threshold applying in accordance with subsection (1)(c) must
+operate in such a way that a copyright infringement report received by
+an internet service provider more than 12 months before a particular
+date does not affect whether the threshold is met on that date; and a
+copyright infringement list provided under section 124B must not take
+into account any such report.
+(7)   The requirements concerning administration and enforcement are--
+(a) that OFCOM have, under the code, the functions of
+administering and enforcing it, including the function of
+resolving owner-provider disputes; and
+(b) that there are adequate arrangements under the code for the
+costs incurred by OFCOM in administering and enforcing the
+code to be met by internet service providers and copyright
+owners.
+(8)   The provision mentioned in subsection (7) may include, in particular--
 (a) provision for the payment, to a person specified in the code, of
 a penalty not exceeding the maximum penalty for the time
-being specified in section 124K(2);
+being specified in section 124L(2);
 (b) provision requiring a copyright owner to indemnify an internet
 service provider for any loss or damage resulting from the
 owner's failure to comply with the code or the copyright
 infringement provisions.
-(6)   In this section--
-"copyright infringement dispute" means a dispute that--
-(a) is between one or more copyright owners, internet
-service providers or subscribers; and
-(b) relates to an act or omission in relation to an initial
-obligation or the initial obligations code;
-"subscriber appeal" means an appeal by a subscriber about--
-(a) a copyright infringement report;
-(b) identification of the subscriber as a person in relation to
-whom the report was made;
-(c) retention by an internet service provider of details of an
-alleged infringement; or
-(d) inclusion of those details in a copyright infringement
-list."
+(9)   In this section "owner-provider dispute" means a dispute that--
+(a) is between persons who are copyright owners or internet
+service providers; and
+(b) relates to an act or omission in relation to an initial obligation or
+the initial obligations code."
 
 9    Progress reports
 After section 124E of the Communications Act 2003 insert--
@@ -610,6 +667,7 @@ After section 124E of the Communications Act 2003 insert--
 (1)   OFCOM must prepare the following reports for the Secretary of State
 about the infringement of copyright by subscribers to internet access
 services.
+
 (2)   OFCOM must prepare a full report for--
 (a) the period of 12 months beginning with the first day on which
 there is an initial obligations code in force; and
@@ -619,7 +677,11 @@ there is an initial obligations code in force; and
 there is an initial obligations code in force; and
 (b) each successive period of 3 months, other than one ending at the
 same time as a period of 12 months under subsection (2).
-(4)   A full report under this section must include--
+But this is subject to any direction by the Secretary of State under
+subsection (4).
+(4)   The Secretary of State may direct that subsection (3) no longer applies,
+with effect from the date given in the direction.
+(5)   A full report under this section must include--
 (a) an assessment of the current level of subscribers' use of internet
 access services to infringe copyright;
 (b) a description of the steps taken by copyright owners to enable
@@ -639,15 +701,26 @@ been against subscribers in relation to whom a substantial
 number of reports have been made; and
 (h) anything else that the Secretary of State directs OFCOM to
 include in the report.
-(5)   An interim report under this section must include--
-(a) the assessments mentioned in subsection (4)(a), (e) and (f); and
+(6)   An interim report under this section must include--
+(a) the assessments mentioned in subsection (5)(a), (e) and (f); and
 (b) anything else that the Secretary of State directs OFCOM to
 include in the report.
-(6)   OFCOM must send a report prepared under this section to the
+(7)   OFCOM must send a report prepared under this section to the
 Secretary of State as soon as practicable after the end of the period for
-which it is prepared."
+which it is prepared.
+(8)   OFCOM must publish every full report under this section--
+(a) as soon as practicable after they send it to the Secretary of State,
+and
+(b) in such manner as they consider appropriate for bringing it to
+the attention of persons who, in their opinion, are likely to have
+an interest in it.
+(9)   OFCOM may exclude information from a report when it is published
+under subsection (8) if they consider that it is information that they
 
-10     Obligations to limit internet access: assessment and preparation
+could refuse to disclose in response to a request under the Freedom of
+Information Act 2000."
+
+10   Obligations to limit internet access: assessment and preparation
 After section 124F of the Communications Act 2003 insert--
 "124G Obligations to limit internet access: assessment and preparation
 (1)   The Secretary of State may direct OFCOM to--
@@ -658,7 +731,8 @@ imposed on internet service providers;
 State.
 (2)   A "technical obligation", in relation to an internet service provider, is an
 obligation for the provider to take a technical measure against some or
-all relevant subscribers to its service.
+all relevant subscribers to its service for the purpose of preventing or
+reducing infringement of copyright by means of the internet.
 (3)   A "technical measure" is a measure that--
 (a) limits the speed or other capacity of the service provided to a
 subscriber;
@@ -677,34 +751,50 @@ subscribers or any other person;
 (b) an assessment of the likely efficacy of a technical measure in
 relation to a particular type of internet access service; and
 (c) steps to prepare a proposed technical obligations code.
-(6)   Internet service providers must give OFCOM any assistance that
-OFCOM reasonably require for the purposes of complying with any
-direction under this section.
+(6)   Internet service providers and copyright owners must give OFCOM
+any assistance that OFCOM reasonably require for the purposes of
+complying with any direction under this section.
 (7)   The Secretary of State must lay before Parliament any direction under
-this section."
+this section.
+(8)   OFCOM must publish every report under this section--
+(a) as soon as practicable after they send it to the Secretary of State,
+and
+(b) in such manner as they consider appropriate for bringing it to
+the attention of persons who, in their opinion, are likely to have
+an interest in it.
+
+(9)   OFCOM may exclude information from a report when it is published
+under subsection (8) if they consider that it is information that they
+could refuse to disclose in response to a request under the Freedom of
+Information Act 2000."
 
 11     Obligations to limit internet access
 After section 124G of the Communications Act 2003 insert--
 "124H Obligations to limit internet access
-(1)   The Secretary of State may at any time by order impose a technical
-obligation on internet service providers if the Secretary of State
-considers it appropriate in view of--
-(a) an assessment carried out or steps taken by OFCOM under
-section 124G; or
-(b) any other consideration.
-
-(2)   An order under this section must specify the date from which the
+(1)   The Secretary of State may by order impose a technical obligation on
+internet service providers if--
+(a) OFCOM have assessed whether one or more technical
+obligations should be imposed on internet service providers;
+and
+(b) taking into account that assessment, reports prepared by
+OFCOM under section 124F, and any other matter that appears
+to the Secretary of State to be relevant, the Secretary of State
+considers it appropriate to make the order.
+(2)   No order may be made under this section within the period of 12
+months beginning with the first day on which there is an initial
+obligations code in force.
+(3)   An order under this section must specify the date from which the
 technical obligation is to have effect, or provide for it to be specified.
-(3)   The order may also specify--
+(4)   The order may also specify--
 (a) the criteria for taking the technical measure concerned against a
 subscriber;
 (b) the steps to be taken as part of the measure and when they are
 to be taken.
-(4)   No order is to be made under this section unless a draft of the order has
+(5)   No order is to be made under this section unless a draft of the order has
 been laid before Parliament and approved by a resolution of each
 House."
 
-12   Code by OFCOM about obligations to limit internet access
+12     Code by OFCOM about obligations to limit internet access
 After section 124H of the Communications Act 2003 insert--
 "124I Code by OFCOM about obligations to limit internet access
 (1)   For any period during which there are one or more technical
@@ -715,9 +805,10 @@ obligations.
 initial obligations code made under section 124D.
 (3)   A code under this section may--
 (a) do any of the things mentioned in section 124C(3) to (5) or
-section 124D(5)(a)to (f)); and
+section 124D(5)(a) to (g); and
 (b) make other provision for the purpose of regulating the technical
 obligations.
+
 (4)   OFCOM must not make a code under this section unless they are
 satisfied that it meets the criteria set out in section 124J.
 (5)   OFCOM must--
@@ -733,87 +824,158 @@ this section.
 this section is subject to annulment in pursuance of a resolution of
 either House of Parliament."
 
-13     Contents of code about obligations to limit internet access
+13   Contents of code about obligations to limit internet access
 After section 124I of the Communications Act 2003 insert--
 "124J Contents of code about obligations to limit internet access
 (1)   The criteria referred to in section 124I(4) are--
 (a) that the requirements concerning enforcement and related
-matters are met in relation to the code (see subsection (2));
-(b) that it makes any provision about contributions towards
+matters are met in relation to the code (see subsections (2) and
+(3));
+(b) that the requirements concerning subscriber appeals are met in
+relation to the code (see section 124K);
+(c) that it makes any provision about contributions towards
 meeting costs that is required to be included by an order under
-section 124L;
-(c) that it makes any other provision that the Secretary of State
+section 124M;
+(d) that it makes any other provision that the Secretary of State
 requires it to make;
-(d) that the provisions of the code are objectively justifiable in
+(e) that the provisions of the code are objectively justifiable in
 relation to the matters to which it relates;
-(e) that those provisions are not such as to discriminate unduly
+(f) that those provisions are not such as to discriminate unduly
 against particular persons or against a particular description of
 persons;
-(f) that those provisions are proportionate to what they are
+(g) that those provisions are proportionate to what they are
 intended to achieve; and
-(g) that, in relation to what those provisions are intended to
+(h) that, in relation to what those provisions are intended to
 achieve, they are transparent.
 (2)   The requirements concerning enforcement and related matters are--
-(a) that OFCOM or another person has, under the code, the
-functions of administering and enforcing it, including the
-function of resolving copyright infringement disputes;
-(b) that any such other person is sufficiently independent of
-internet service providers and copyright owners;
-(c) that there is a person who, under the code, has the function of
-determining subscriber appeals;
-(d) that that person is sufficiently independent of internet service
-providers, copyright owners and OFCOM;
-(e) that there are adequate arrangements under the code for the
-costs of the carrying out by a person mentioned in paragraph (a)
-or (c) of functions in relation to the code to be met by internet
-service providers and copyright owners; and
-(f) that provision is made, in accordance with subsection (3), for
-the appeal to the First-tier Tribunal of determinations of
-subscriber appeals.
-(3)   The provision mentioned in subsection (2)(f) is provision--
-(a) enabling a determination of a subscriber appeal to be appealed
-to the First-tier Tribunal, including on grounds that it was based
-on an error of fact, wrong in law or unreasonable;
-(b) giving the First-tier Tribunal power, in relation to an appeal to
-it, to--
-(i) withdraw a technical measure;
-(ii) confirm a technical measure;
-(iii) take any steps that a person administering or enforcing
-the code could take in relation to the act or omission
-giving rise to the technical measure;
+(a) that OFCOM have, under the code, the functions of
+administering and enforcing it, including the function of
+resolving owner-provider disputes; and
+(b) that there are adequate arrangements under the code for the
+costs incurred by OFCOM in administering and enforcing the
+code to be met by internet service providers and copyright
+owners.
 
-(iv)    remit the decision whether to confirm the technical
-measure, or any matter relating to that decision, to a
-person mentioned in subsection (2)(c);
-(v) award costs;
-(c)   in relation to recovery of costs awarded by the Tribunal.
-(4)   The provision mentioned in subsection (2) may also (unless the
-Secretary of State requires otherwise) include, in particular--
+(3)   The provision made concerning enforcement and related matters may
+also (unless the Secretary of State requires otherwise) include, in
+particular--
 (a) provision for the payment, to a person specified in the code, of
 a penalty not exceeding the maximum penalty for the time
-being specified in section 124K(2);
+being specified in section 124L(2);
 (b) provision requiring a copyright owner to indemnify an internet
 service provider for any loss or damage resulting from the
 owner's infringement or error in relation to the code or the
-copyright infringement provisions;
-(c) provision for the taking of a technical measure to be postponed
-until a subscriber appeal to a person mentioned in subsection
-(2)(c) or an appeal to the First-tier Tribunal has been
-determined.
-(5)   In this section--
-"copyright infringement dispute" means a dispute that--
-(a) is between one or more copyright owners, internet
-service providers or subscribers; and
-(b) relates to an act or omission in relation to a technical
-obligation or the technical obligations code;
-"subscriber appeal" means an appeal by a subscriber against--
-(a) the proposed taking of a technical measure against a
-subscriber; or
-(b) the taking of a technical measure against a subscriber."
+copyright infringement provisions.
+(4)   In this section "owner-provider dispute" means a dispute that--
+(a) is between persons who are copyright owners or internet
+service providers; and
+(b) relates to an act or omission in relation to a technical obligation
+or the technical obligations code."
 
-14   Enforcement of obligations
+14     Subscriber appeals
 After section 124J of the Communications Act 2003 insert--
-"124K Enforcement of obligations
+"124K Subscriber appeals
+(1)   The requirements concerning subscriber appeals are--
+(a) for the purposes of section 124E(1)(h), the requirements of
+subsections (2) to (8); and
+(b) for the purposes of section 124J(1)(b), the requirements of
+subsections (2) to (11).
+(2)   The requirements of this subsection are--
+(a) that the code confers on subscribers the right to bring a
+subscriber appeal and, in the case of a technical obligations
+code, a further right of appeal to the First-tier Tribunal;
+(b) that there is a person who, under the code, has the function of
+determining subscriber appeals;
+(c) that that person is for practical purposes independent (so far as
+determining subscriber appeals is concerned) of internet service
+providers, copyright owners and OFCOM; and
+(d) that there are adequate arrangements under the code for the
+costs incurred by that person in determining subscriber appeals
+to be met by internet service providers, copyright owners and
+the subscriber concerned.
+(3)   The code must provide for the grounds of appeal (so far as an appeal
+relates to, or to anything done by reference to, a copyright infringement
+report) to include the following--
+(a) that the apparent infringement to which the report relates was
+not an infringement of copyright;
+(b) that the report does not relate to the subscriber's IP address at
+the time of the apparent infringement.
+(4)   The code must provide for the grounds of appeal to include
+contravention by the copyright owner or internet service provider of
+the code or of an obligation regulated by the code.
+
+(5)   The code must provide that an appeal on any grounds must be
+determined in favour of the subscriber unless the copyright owner or
+internet service provider shows that, as respects any copyright
+infringement report to which the appeal relates or by reference to
+which anything to which the appeal relates was done--
+(a) the apparent infringement was an infringement of copyright,
+and
+(b) the report relates to the subscriber's IP address at the time of
+that infringement.
+(6)   The code must provide that, where a ground mentioned in subsection
+(3) is relied on, the appeal must be determined in favour of the
+subscriber if the subscriber shows that--
+(a) the act constituting the apparent infringement to which the
+report relates was not done by the subscriber, and
+(b) the subscriber took reasonable steps to prevent other persons
+infringing copyright by means of the internet access service.
+(7)   The powers of the person determining subscriber appeals must include
+power--
+(a) to secure so far as practicable that a subscriber is not prejudiced
+for the purposes of the copyright infringement provisions by an
+act or omission in respect of which an appeal is upheld;
+(b) to make an award of compensation to be paid by a copyright
+owner or internet service provider to a subscriber affected by
+such an act or omission; and
+(c) where the appeal is determined in favour of the subscriber, to
+direct the copyright owner or internet service provider to
+reimburse the reasonable costs of the subscriber.
+(8)   The code must provide that the power to direct the reimbursement of
+costs under subsection (7)(c) is to be exercised to award reasonable
+costs to a subscriber whose appeal is successful, unless the person
+deciding the appeal is satisfied that it would be unjust to give such a
+direction having regard to all the circumstances including the conduct
+of the parties before and during the proceedings.
+(9)   In the case of a code under section 124I, the powers of the person
+determining subscriber appeals must include power--
+(a) on an appeal in relation to a technical measure or proposed
+technical measure--
+(i) to confirm the measure;
+(ii) to require the measure not to be taken or to be
+withdrawn;
+(iii) to substitute any other technical measure that the
+internet service provider has power to take;
+(b) to exercise the power mentioned in paragraph (a)(ii) or (iii)
+where an appeal is not upheld but the person determining it is
+satisfied that there are exceptional circumstances that justify the
+exercise of the power;
+(c) to take any steps that OFCOM could take in relation to the act
+or omission giving rise to the technical measure; and
+(d) to remit the decision whether to confirm the technical measure,
+or any matter relating to that decision, to OFCOM.
+
+(10)    In the case of a code under section 124I, the code must make
+provision--
+(a) enabling a determination of a subscriber appeal to be appealed
+to the First-tier Tribunal, including on grounds that it was based
+on an error of fact, wrong in law or unreasonable;
+(b) giving the First-tier Tribunal, in relation to an appeal to it, the
+powers mentioned in subsections (7) and (9); and
+(c) in relation to recovery of costs awarded by the Tribunal.
+(11)    In the case of a code under section 124I, the code must include
+provision to secure that a technical measure is not taken against a
+subscriber until--
+(a) the period for bringing a subscriber appeal, or any further
+appeal to the First-tier Tribunal, in relation to the proposed
+measure has ended (or the subscriber has waived the right to
+appeal or abandoned any appeal); and
+(b) any such subscriber appeal or further appeal has been
+determined or otherwise disposed of."
+
+15     Enforcement of obligations
+After section 124K of the Communications Act 2003 insert--
+"124L Enforcement of obligations
 (1)   Sections 94 to 96 apply in relation to a contravention of an initial
 obligation or a technical obligation, or a contravention of an obligation
 under section 124G(6), as they apply in relation to a contravention of a
@@ -826,12 +988,11 @@ determine to be--
 imposed.
 (3)   In making that determination OFCOM must have regard to--
 (a) any representations made to them by the internet service
-provider;
-
-(b)    any steps taken by the provider towards complying with the
-obligations contraventions of which have been notified to the
-provider under section 94 (as applied); and
-(c)    any steps taken by the provider for remedying the
+provider or copyright owner on whom the penalty is imposed;
+(b) any steps taken by the provider or owner towards complying
+with the obligations contraventions of which have been notified
+to the provider under section 94 (as applied); and
+(c) any steps taken by the provider or owner for remedying the
 consequences of those contraventions.
 (4)   The Secretary of State may by order amend this section so as to
 substitute a different maximum penalty for the maximum penalty for
@@ -840,9 +1001,9 @@ the time being specified in subsection (2).
 (4) unless a draft of the order has been laid before Parliament and
 approved by a resolution of each House."
 
-15     Sharing of costs
-After section 124K of the Communications Act 2003 insert--
-"124L Sharing of costs
+16         Sharing of costs
+After section 124L of the Communications Act 2003 insert--
+"124M Sharing of costs
 (1)   The Secretary of State may by order specify provision that must be
 included in an initial obligations code or a technical obligations code
 about payment of contributions towards costs incurred under the
@@ -851,8 +1012,8 @@ copyright infringement provisions.
 contributions by one or more of the following only--
 (a) copyright owners;
 (b) internet service providers;
-(c) in relation to copyright infringement disputes or subscriber
-appeals within the meaning of section 124E or 124J, subscribers.
+(c) in relation to a subscriber appeal or a further appeal by a
+subscriber to the First-tier Tribunal, the subscriber.
 (3)   Provision specified under subsection (1) may relate to, in particular--
 (a) payment by a copyright owner of a contribution towards the
 costs that an internet service provider incurs;
@@ -872,21 +1033,22 @@ paid.
 been laid before Parliament and approved by a resolution of each
 House."
 
-16         Interpretation and consequential provision
-(1)    After section 124L of the Communications Act 2003 insert--
-"124M Interpretation
-In sections 124A to 124L and this section--
+17         Interpretation and consequential provision
+(1)    After section 124M of the Communications Act 2003 insert--
+"124N Interpretation
+In sections 124A to 124M and this section--
 "apparent infringement", in relation to a copyright infringement
 report, means the infringement of copyright that the report
 states appears to have taken place;
 "copyright infringement list" has the meaning given in section
 124B(2);
-"copyright infringement provisions" means sections 124A to 124L
+"copyright infringement provisions" means sections 124A to 124M
 and this section;
 "copyright infringement report" has the meaning given in section
 124A(3);
 "copyright owner" means--
-(a) a copyright owner within the meaning of Part 1 of the
+
+(a)   a copyright owner within the meaning of Part 1 of the
 Copyright, Designs and Patents Act 1988 (see section
 173 of that Act); or
 (b) someone authorised by that person to act on the
@@ -912,6 +1074,23 @@ person who--
 (a) receives the service under an agreement between the
 person and the provider of the service; and
 (b) does not receive it as a communications provider;
+"subscriber appeal" means--
+(a) in relation to an initial obligations code, an appeal by a
+subscriber on grounds specified in the code in relation
+to--
+(i) the making of a copyright infringement report;
+(ii) notification under section 124A(4);
+(iii) the inclusion or proposed inclusion of an entry
+in a copyright infringement list; or
+(iv) any other act or omission in relation to an initial
+obligation or an initial obligations code;
+(b) in relation to a technical obligations code, an appeal by
+a subscriber on grounds specified in the code in relation
+to--
+(i) the proposed taking of a technical measure; or
+(ii) any other act or omission in relation to a
+technical obligation or a technical obligations
+code;
 "technical measure" has the meaning given in section 124G(3);
 "technical obligation" has the meaning given in section 124G(2);
 "technical obligations code" means a code for the time being in
@@ -924,168 +1103,103 @@ functions), after paragraph (i) insert--
 under section 124G;".
 (3)    In Schedule 8 to that Act (decisions not subject to appeal to the Competition
 Appeal Tribunal), after paragraph 9 insert--
-"9A      A decision relating to any of sections 124A to 124M or to anything
+"9A      A decision relating to any of sections 124A to 124N or to anything
 done under them."
 
-17         Power to amend copyright provisions
-In Part 7 of the Copyright, Designs and Patents Act 1988 (miscellaneous and
-general) after section 302 insert--
+18         Preventing access to specified online locations for the prevention of online
+copyright infringement
+In Part 1 of the Copyright, Designs and Patents Act 1988, after section 97A
+insert--
+"97B Preventing access to specified online locations for the prevention of
+online copyright infringement
+(1)   The High Court (in Scotland, the Court of Session) shall have power to
+grant an injunction against a service provider, requiring it to prevent
+access to online locations specified in the order of the Court for the
+prevention of online copyright infringement.
+(2)   In determining whether to grant an injunction under subsection (1), the
+Court shall have regard to the following matters--
+(a) whether a substantial proportion of the content accessible at or
+via each specified online location infringes copyright,
+(b) the extent to which the operator of each specified online
+location has taken reasonable steps to prevent copyright
+infringement content being accessed at or via that online
+location or taken reasonable steps to remove copyright
+infringing content from that online location (or both),
+(c) whether the service provider has itself taken reasonable steps to
+prevent access to the specified online location,
+(d) any issues of national security raised by the Secretary of State,
+(e) the extent to which the copyright owner has made reasonable
+efforts to facilitate legal access to content,
+(f) the importance of preserving human rights, including freedom
+of expression, and the right to property, and
+(g) any other matters which appear to the Court to be relevant.
+(3)   An application for an injunction under subsection (1) shall be made on
+notice to the service provider and to the operator of each specified
+online location in relation to which an injunction is sought and to the
+Secretary of State.
+(4)   Where--
+(a) the Court grants an injunction under subsection (1) upon the
+application of an owner of copyright whose copyright is
+infringed by the content accessible at or via each specified
+online location in the injunction, and
+(b) the owner of copyright before making the application made a
+written request to the service provider giving it a reasonable
+period of time to take measures to prevent its service being used
+to access the specified online location in the injunction, and no
+steps were taken,
 
-"Prevention or reduction of online infringement of copyright
-302A Power to amend Part 1 and this Part
-(1)   The Secretary of State may by order amend Part 1 or this Part for the
-purpose of preventing or reducing any infringement of copyright by
-means of the internet if satisfied that--
-(a) the infringement is having a serious adverse effect on
-businesses or consumers, and
-(b) making the amendment is a proportionate way to address that
-effect.
-(2)   The following provisions apply to the power conferred by this section.
-(3)   Subsections (4) to (6) do not limit that power.
-(4)   The power may be exercised so as to make new provision or to amend
-or repeal provision (whenever made).
-(5)   The power may be exercised so as to--
-(a) confer a power or right or impose a duty on any person;
-(b) modify or remove a power, right or duty of any person;
-(c) require a person to pay fees.
-(6)   The power includes power to--
-(a) make different provision for different cases;
-(b) make transitional or saving provision;
-(c) make any consequential amendment, repeal or revocation of
-provision (whenever made) contained in or made under an Act.
-(7)   The power does not include power to create or modify a criminal
-offence.
-(8)   An order under this section must be made by statutory instrument.
-(9)   The Secretary of State may not make an order under this section
-unless--
-(a) the Secretary of State has consulted the persons the Secretary of
-State thinks likely to be affected by the order (or persons who
-represent such persons) and such other persons as the Secretary
-of State thinks fit;
-
-(b)   following that consultation, the Secretary of State has laid a
-draft order and explanatory document before Parliament in
-accordance with section 302B; and
-(c)   the order is made in accordance with section 302C.
-302B Draft order and explanatory document laid before Parliament
-(1)   If, after the conclusion of the consultation required by section 302A(9),
-the Secretary of State considers it appropriate to proceed with the
-making of an order under section 302A, the Secretary of State must lay
-before Parliament--
-(a) a draft of the order, together with
-(b) an explanatory document.
-(2)   The explanatory document must--
-(a) describe the infringement of copyright that the Secretary of
-State is satisfied is having a serious adverse effect on businesses
-or consumers;
-(b) describe the effect;
-(c) explain why the Secretary of State is satisfied that making the
-amendment is a proportionate way to address that effect;
-(d) give details of the consultation undertaken under section
-302A(9), any representations received as a result of the
-consultation, and the changes (if any) made as a result of such
-representations.
-(3)   Where a person making representations in response to consultation
-under section 302A(9) has requested the Secretary of State not to
-disclose them, the Secretary of State must not disclose them under
-subsection (2)(d) if or to the extent that to do so would (disregarding
-any connection with proceedings in Parliament) constitute a breach of
-confidence actionable by any person.
-(4)   If information in representations made by a person in response to
-consultation under section 302A(9) relates to another person, the
-Secretary of State need not disclose the information under subsection
-(2)(d) if or to the extent that--
-(a) it appears to the Secretary of State that the disclosure of that
-information could adversely affect the interests of that other
-person; and
-(b) the Secretary of State has been unable to obtain the consent of
-that other person to the disclosure.
-(5)   Subsections (3) and (4) do not affect any disclosure that is requested by,
-and made to, a committee of either House of Parliament charged with
-reporting on the draft order.
-302C Super-affirmative procedure
-(1)   The Secretary of State must have regard to--
-(a) any representations,
-(b) any resolutions of either House of Parliament, and
-(c) any recommendations of a committee of either House of
-Parliament charged with reporting on the draft order,
-made during the 60-day period with regard to the draft order.
-
-(2)   If, after the expiry of the 60-day period, the Secretary of State wishes to
-make an order in the terms of the draft, the Secretary of State must lay
-before Parliament a statement--
-(a) stating whether any representations were made under
-subsection (1)(a); and
-(b) if any representations were so made, giving details of them.
-(3)   The Secretary of State may after the laying of such a statement make an
-order in the terms of the draft if it is approved by a resolution of each
-House of Parliament.
-(4)   However, a committee of either House charged with reporting on the
-draft order may, at any time after the laying of a statement under
-subsection (2) and before the draft order is approved by that House
-under subsection (3), recommend under this subsection that no further
-proceedings be taken in relation to the draft order.
-(5)   Where a recommendation is made by a committee of either House
-under subsection (4) in relation to a draft order, no proceedings may be
-taken in relation to the draft order in that House under subsection (3)
-unless the recommendation is, in the same Session, rejected by
-resolution of that House.
-(6)   If, after the expiry of the 60-day period, the Secretary of State wishes to
-make an order consisting of a version of the draft order with material
-changes, the Secretary of State must lay before Parliament--
-(a) a revised draft order; and
-(b) a statement giving details of any representations made under
-subsection (1)(a) and of the revisions proposed.
-(7)   The Secretary of State may after laying a revised draft order and
-statement under subsection (6) make an order in the terms of the
-revised draft if it is approved by a resolution of each House of
-Parliament.
-(8)   However, a committee of either House charged with reporting on the
-revised draft order may, at any time after the revised draft order is laid
-under subsection (6) and before it is approved by that House under
-subsection (7), recommend under this subsection that no further
-proceedings be taken in relation to the revised draft order.
-(9)   Where a recommendation is made by a committee of either House
-under subsection (8) in relation to a revised draft order, no proceedings
-may be taken in relation to the revised draft order in that House under
-subsection (7) unless the recommendation is, in the same Session,
-rejected by resolution of that House.
-(10)    Subsections (3) to (5) of section 302B apply in relation to the disclosure
-of representations under subsections (2)(b) and (6)(b) of this section as
-they apply in relation to the disclosure of representations under
-subsection (2)(d) of that section.
-(11)    For the purposes of subsections (3) and (7) an order is made in the terms
-of a draft order if it contains no material changes to the provisions of
-the draft order.
-
-(12)   In this section the "60-day period" means the period of 60 days
-beginning with the day on which the draft order was laid before
-Parliament under section 302B.
-(13)   In calculating the 60-day period no account is to be taken of any time
-during which Parliament is dissolved or prorogued or during which
-either House is adjourned for more than four days."
+the Court shall order the service provider to pay the copyright owner's
+costs of the application unless there were exceptional circumstances
+justifying the service provider's failure to prevent access despite
+notification by the copyright owner.
+(5)   In this section--
+"copyright owner" includes a licensee with an exclusive licence
+within the meaning of section 92 of this Act,
+"infringing content" means content which is produced or made
+available in infringement of copyright,
+"online location" means a location on the internet, a mobile data
+network or other data network at or via which copyright
+infringing content is accessible,
+"operator" means a person or persons in joint or sole control of the
+decisions to make content accessible at or via an online location,
+and
+"service provider" has the meaning given to it by section 97A(3) of
+this Act.
+(6)   Subsections (1) to (5) shall come into force on such day as the Secretary
+of State may by order appoint not less than 3 months and not more than
+12 months after subsections (1) to (5) have been notified to the
+Commission of the European Communities ("the Commission") in
+accordance with the obligations of notification imposed by Directive
+98/34/EC.
+(7)   If any comments are received from Member States of the European
+Union or the Commission after subsections (1) to (5) have been so
+notified and the Secretary of State reasonably considers amendments
+are necessary to give effect to such comments, he may make the
+necessary regulations within the period referred to in subsection (6)(a),
+to amend subsections (1) to (5)."
 
 Powers in relation to internet domain registries
 
-18   Powers in relation to internet domain registries
-After section 124M of the Communications Act 2003 insert--
+19     Powers in relation to internet domain registries
+After section 124N of the Communications Act 2003 insert--
 
 "Powers in relation to internet domain registries
-124N Notification of failure in relation to internet domain registry
+124O Notification of failure in relation to internet domain registry
 (1)   This section applies where the Secretary of State--
 (a) is satisfied that a serious relevant failure in relation to a
 qualifying internet domain registry is taking place or has taken
 place, and
-(b) wishes to exercise the powers under section 124O or 124Q.
+(b) wishes to exercise the powers under section 124P or 124R.
 (2)   The Secretary of State must notify the internet domain registry,
 specifying the failure and a period during which the registry has the
 opportunity to make representations to the Secretary of State.
 (3)   There is a relevant failure in relation to a qualifying internet domain
 registry if--
-(a) the registry, or any of its registrars or end-users, engages in
+
+(a)   the registry, or any of its registrars or end-users, engages in
 prescribed practices that are unfair or involve the misuse of
 internet domain names, or
-(b) the arrangements made by the registry for dealing with
+(b)   the arrangements made by the registry for dealing with
 complaints in connection with internet domain names do not
 comply with prescribed requirements.
 (4)   A relevant failure is serious, for the purposes of this section, if it has
@@ -1095,17 +1209,19 @@ networks or electronic communications services provided in
 the United Kingdom or a part of the United Kingdom, or
 (b) the interests of consumers or members of the public in the
 United Kingdom or a part of the United Kingdom.
-(5)   In this section and sections 124O to 124Q--
+(5)   In subsection (3) "prescribed" means prescribed by regulations made
+by the Secretary of State.
+(6)   Before making regulations under subsection (3) the Secretary of State
+must consult such persons as the Secretary of State considers
+appropriate.
+(7)   In this section and sections 124P to 124R--
 "end-user", in relation to a qualifying internet domain registry,
 means a person who has been or wants to be allocated an
 internet domain name that is or would be included in the
 register maintained by the registry;
-"prescribed" means prescribed by regulations made by the
-Secretary of State;
 "qualifying internet domain registry" means a relevant body
 that--
-
-(a)   maintains a relevant register of internet domain names,
+(a) maintains a relevant register of internet domain names,
 and
 (b) operates a computer program or server that forms part
 of the system that enables the names included in the
@@ -1129,33 +1245,33 @@ indicated by the last two elements of an internet domain name;
 by the last three elements of an internet domain name;
 "top level internet domain" means an internet domain indicated
 by the last element of an internet domain name.
-(6)   An internet domain is "UK-related" if, in the opinion of the Secretary of
+
+(8)   An internet domain is "UK-related" if, in the opinion of the Secretary of
 State, the last element of its name is likely to cause users of the internet,
 or a class of such users, to believe that the domain and its sub-domains
 are connected with the United Kingdom or a part of the United
 Kingdom."
 
-19         Appointment of manager of internet domain registry
-(1)    After section 124N of the Communications Act 2003 insert--
-"124O Appointment of manager of internet domain registry
+20         Appointment of manager of internet domain registry
+(1)    After section 124O of the Communications Act 2003 insert--
+"124P Appointment of manager of internet domain registry
 (1)   This section applies where--
 (a) the Secretary of State has given a notification under section
-124N to a qualifying internet domain registry specifying a
+124O to a qualifying internet domain registry specifying a
 failure,
 (b) the period allowed for making representations has expired, and
 (c) the Secretary of State is satisfied that the registry has not taken
 the steps that the Secretary of State considers appropriate for
-remedying the failure and any consequences of the failure.
+remedying the failure.
 (2)   The Secretary of State may by order appoint a manager in respect of the
 property and affairs of the internet domain registry for the purpose of
 securing that the registry takes the steps described in subsection (1)(c).
 (3)   The person appointed may be anyone whom the Secretary of State
 thinks appropriate.
 (4)   The appointment of the manager does not affect--
-
-(a)   a right of a person to appoint a receiver of the registry's
+(a) a right of a person to appoint a receiver of the registry's
 property, or
-(b)   the rights of a receiver appointed by a person other than the
+(b) the rights of a receiver appointed by a person other than the
 Secretary of State.
 (5)   The Secretary of State must--
 (a) keep the order under review, and
@@ -1163,14 +1279,19 @@ Secretary of State.
 (6)   The Secretary of State must discharge the order on the appointment of
 a person to act as administrative receiver, administrator, provisional
 liquidator or liquidator of the registry.
-(7)   When discharging an order under this section, the Secretary of State
+(7)   The Secretary of State must discharge the order before the end of the
+period of 2 years beginning with the day on which it was made (but this
+does not prevent the Secretary of State from making a further order in
+the same or similar terms).
+(8)   When discharging an order under this section, the Secretary of State
 may make savings and transitional provision.
-(8)   The Secretary of State must send a copy of an order made under this
+(9)   The Secretary of State must send a copy of an order made under this
 section to the registry as soon as practicable after it is made.
-(9)   In subsection (4), "receiver" includes a manager (other than a manager
+(10)   In subsection (4), "receiver" includes a manager (other than a manager
 appointed by the registry) and a person who is appointed as both
 receiver and manager.
-(10)   In subsection (6)--
+(11)   In subsection (6)--
+
 "administrative receiver" means an administrative receiver within
 the meaning of section 251 of the Insolvency Act 1986 or Article
 5(1) of the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/
@@ -1178,8 +1299,8 @@ the meaning of section 251 of the Insolvency Act 1986 or Article
 "administrator" means a person appointed to manage the affairs,
 business and property of the registry under Schedule B1 to that
 Act or Schedule B1 to that Order.
-124P Functions of manager etc
-(1)   An order under section 124O may make provision about the functions
+124Q Functions of manager etc
+(1)   An order under section 124P may make provision about the functions
 to be exercised by, and the powers of, the manager.
 (2)   The order may, in particular--
 (a) provide for the manager to have such of the functions of the
@@ -1199,7 +1320,6 @@ as the registry's agent.
 (5)   The Secretary of State may apply to the court for directions in relation
 to any matter arising in connection with the functions or powers of the
 manager (and the costs of the application are to be paid by the registry).
-
 (6)   On an application under subsection (5) the court may give such
 directions or make such orders as it thinks fit.
 (7)   In this section "the court" means--
@@ -1209,25 +1329,25 @@ directions or make such orders as it thinks fit.
 (8)   Where the registry is a limited liability partnership, this section applies
 as if references to a director of the registry were references to a member
 of the limited liability partnership."
-(2)    In section 192(1)(d) of that Act (appeals against decisions of the Secretary of
+(2)   In section 192(1)(d) of that Act (appeals against decisions of the Secretary of
 State), after sub-paragraph (ii) insert--
-"(iia) an order under section 124O;".
-(3)    In section 402(1) of that Act (powers of the Secretary of State to make orders
-and regulations), after "conferred by" insert "section 124O and".
+"(iia) an order under section 124P;".
+(3)   In section 402(1) of that Act (powers of the Secretary of State to make orders
+and regulations), after "conferred by" insert "section 124P and".
 
-20         Application to court to alter constitution of internet domain registry
-After section 124P of the Communications Act 2003 insert--
-"124Q Application to court to alter constitution of internet domain registry
+21         Application to court to alter constitution of internet domain registry
+After section 124Q of the Communications Act 2003 insert--
+"124R Application to court to alter constitution of internet domain registry
 (1)   This section applies where--
 (a) the Secretary of State has given a notification under section
-124N to a qualifying internet domain registry specifying a
+124O to a qualifying internet domain registry specifying a
 failure,
 (b) the period allowed for making representations has expired, and
 (c) the Secretary of State is satisfied that the registry has not taken
 the steps that the Secretary of State considers appropriate for
-remedying the failure and any consequences of the failure.
+remedying the failure.
 (2)   The Secretary of State may apply to the court (as defined in section
-124P) for an order under this section.
+124Q) for an order under this section.
 (3)   The court may make an order--
 (a) making alterations of the registry's constitution, and
 (b) requiring the registry not to make any alterations, or any
@@ -1235,8 +1355,7 @@ specified alterations, of its constitution without the leave of the
 court.
 (4)   An order under this section may contain only such provision as the
 court considers appropriate for securing that the registry remedies the
-failure specified in the notification under section 124N and any
-consequences of the failure.
+failure specified in the notification under section 124O.
 (5)   In this section--
 "constitution" means, in the case of a company, the articles of
 association and, in the case of a limited liability partnership, the
@@ -1245,13 +1364,12 @@ limited liability partnership agreement;
 agreements, whether express or implied, between the members
 of a limited liability partnership, and between the partnership
 and the members of the partnership, determining--
-
-(a)   the mutual rights and duties of the members, and
-(b)   their rights and duties in relation to the partnership."
+(a) the mutual rights and duties of the members, and
+(b) their rights and duties in relation to the partnership."
 
 Channel Four Television Corporation
 
-21         Functions of C4C in relation to media content
+22         Functions of C4C in relation to media content
 (1)    Before section 199 of the Communications Act 2003 insert--
 "198A C4C's functions in relation to media content
 (1)   C4C must participate in--
@@ -1262,15 +1380,16 @@ of a culturally diverse society,
 general public at the cinema in the United Kingdom, and
 (c) the broadcasting and distribution of such content and films.
 (2)   C4C must, in particular, participate in--
-(a) the making of relevant media content that consists of news and
+
+(a)   the making of relevant media content that consists of news and
 current affairs,
-(b) the making of relevant media content that appeals to the tastes
+(b)   the making of relevant media content that appeals to the tastes
 and interests of older children and young adults,
-(c) the broadcasting or distribution by means of electronic
+(c)   the broadcasting or distribution by means of electronic
 communications networks of feature films that reflect cultural
 activity in the United Kingdom (including third party films),
 and
-(d) the broadcasting or distribution of relevant media content by
+(d)   the broadcasting or distribution of relevant media content by
 means of a range of different types of electronic
 communications networks.
 (3)   In performing their duties under subsections (1) and (2) C4C must--
@@ -1292,7 +1411,6 @@ from around the world and by challenging established views,
 (c) promote alternative views and new perspectives, and
 (d) provide access to material that is intended to inspire people to
 make changes in their lives.
-
 (5)   In performing those duties C4C must have regard to the desirability
 of--
 (a) working with cultural organisations,
@@ -1312,6 +1430,7 @@ services or digital additional television services,
 (c) other services provided by means of the internet where
 there is a person who exercises editorial control over the
 material included in the service;
+
 and a film is a "third party film" if C4C did not participate in making it.
 (7)   The services that are to be taken for the purposes of this section to be
 available to members of the public include any service which--
@@ -1341,7 +1460,6 @@ services), at the end insert "ETC".
 (5)    In section 24(1) of the Broadcasting Act 1990 (Channel 4 to be provided by
 C4C), for "The function of the Corporation shall be to" substitute "The
 Corporation must".
-
 (6)    In paragraph 1 of Schedule 3 to that Act (status and capacity of C4C)--
 (a) in sub-paragraph (4)(b), for "primary functions" substitute "Channel 4
 functions", and
@@ -1352,14 +1470,15 @@ functions", and
 Channel under section 265 of the Communications
 Act 2003."
 
-22         Monitoring and enforcing C4C's media content duties
+23         Monitoring and enforcing C4C's media content duties
 (1)    After section 198A of the Communications Act 2003 insert--
 "198B Statement of media content policy
 (1)   C4C must prepare a statement of media content policy--
 (a) at the same time as they prepare the first statement of
 programme policy that is prepared under section 266 after this
 section comes into force, and
-(b) subsequently at annual intervals.
+
+(b)   subsequently at annual intervals.
 (2)   C4C must monitor their performance in carrying out the proposals
 contained in their statements of media content policy.
 (3)   A statement of media content policy must--
@@ -1386,7 +1505,6 @@ their duties under section 198A, and
 (2)   OFCOM must publish each report under this section--
 (a) as soon as practicable after its preparation is complete, and
 (b) in such manner as they consider appropriate.
-
 (3)   "Relevant period" means each period selected by OFCOM for the
 purposes of section 264(1)(b) that ends after this section comes into
 force.
@@ -1403,7 +1521,8 @@ regard, in particular, to--
 (a) C4C's statements of media content policy,
 (b) C4C's effectiveness and efficiency in monitoring their own
 performance, and
-(c) general economic and market conditions affecting the provision
+
+(c)   general economic and market conditions affecting the provision
 of relevant media content (as defined in section 198A).
 (3)   OFCOM may give directions to C4C to do one or both of the
 following--
@@ -1433,7 +1552,6 @@ with this section.
 such conditions, or making such modifications of conditions, as
 OFCOM consider appropriate for remedying (entirely or partly) C4C's
 failure to perform the duty or duties under section 198A.
-
 (3)   If, at any time following such a variation, OFCOM consider that any of
 the additional conditions or modifications is no longer necessary, they
 may again vary the licence with effect from such time as they may
@@ -1443,17 +1561,18 @@ section to vary the Channel 4 licence."
 
 Independent television services
 
-23         Determination of Channel 3 licence areas
+24         Determination of Channel 3 licence areas
 (1)    In section 14 of the Broadcasting Act 1990 (establishment of Channel 3)--
 (a) omit subsection (7) (restriction on providing a single Channel 3 service
 for the whole of England or the whole of Scotland), and
-(b) after that subsection insert--
+
+(b)   after that subsection insert--
 "(7A)   The areas mentioned in subsection (2) must at all times include
 at least one area that comprises, or falls entirely within,
 Scotland."
-(2)    Section 216 of the Communications Act 2003 (renewal of Channel 3 and 5
+(2)   Section 216 of the Communications Act 2003 (renewal of Channel 3 and 5
 licences) is amended as follows.
-(3)    For subsection (4) substitute--
+(3)   For subsection (4) substitute--
 "(4)   Where OFCOM receive an application under this section for the
 renewal of a licence they must--
 (a) decide whether to renew the licence; and
@@ -1465,18 +1584,17 @@ will be renewed;
 (b) in every case, determine in accordance with section 217 the
 financial terms on which the licence will be renewed; and
 (c) notify the applicant of their determinations."
-(4)    After subsection (6) insert--
-"(6A)    OFCOM may also decide not to renew a licence to provide a Channel 3
+(4)   After subsection (6) insert--
+"(6A)   OFCOM may also decide not to renew a licence to provide a Channel 3
 service if, for the licensing period in question, they have renewed or
 propose to renew one or more other licences to provide a Channel 3
 service for all of the area to which the licence relates."
-(5)    In subsection (8)(a) for "subsection (4)(c)" substitute "subsection (4A)(c)".
-(6)    In subsection (10) for the words from ", in accordance" to the end substitute "--
+(5)   In subsection (8)(a) for "subsection (4)(c)" substitute "subsection (4A)(c)".
+(6)   In subsection (10) for the words from ", in accordance" to the end substitute "--
 (a) to any determination under subsection (4A)(a);
 (b) in accordance with the determination under subsection (4A)(b), to the
 requirements imposed by section 217(4)."
-
-(7)    After section 216 of that Act insert--
+(7)   After section 216 of that Act insert--
 "216A Renewal of Channel 3 licences: determination of licence areas
 (1)   This section applies if OFCOM decide under section 216(4) to renew a
 licence to provide a Channel 3 service.
@@ -1487,10 +1605,10 @@ renewed currently relates, and
 licence to provide a Channel 3 service for the other area gives
 (and does not withdraw) consent before the determination is
 made."
-(8)    In section 217(1) of that Act, in the opening words, for "section 216(4)(b)"
+(8)   In section 217(1) of that Act, in the opening words, for "section 216(4)(b)"
 substitute "section 216(4A)(b)".
 
-24         Initial expiry date for Channel 3 and 5 and public teletext licences
+25         Initial expiry date for Channel 3 and 5 and public teletext licences
 (1)    Section 224 of the Communications Act 2003 (initial expiry date for licences) is
 amended as follows.
 (2)    For subsection (1) (meaning of "initial expiry date") substitute--
@@ -1505,7 +1623,7 @@ one or more of the types of licence mentioned in subsection (1)".
 (4)    Omit subsection (3) (no postponement if digital switchover is to occur before 1
 July 2013).
 
-25         Initial expiry date: consequential provision
+26         Initial expiry date: consequential provision
 (1)    Chapter 2 of Part 3 of the Communications Act 2003 (regulatory structure for
 independent television services) is amended as follows.
 (2)    In each of sections 214(6) and 216(12) (definition of "licensing period" for
@@ -1520,55 +1638,54 @@ public teletext service)--
 (a) in paragraph (a), at the end (but before "or") insert "for the licence to
 provide the public teletext service", and
 (b) in paragraph (b), at the end insert "for that type of licence".
-
-(4)   In section 225(3) (period for review of financial terms of replacement Channel
+(4)    In section 225(3) (period for review of financial terms of replacement Channel
 3 and 5 and public teletext licences), after "initial expiry date" insert "for that
 type of licence".
-(5)   In section 228(8) (giving effect to review of financial terms of replacement
+(5)    In section 228(8) (giving effect to review of financial terms of replacement
 licence), in the definition of "licensing period"--
 (a) after ""licensing period"" insert ", in relation to a licence,",
 (b) in paragraph (a), at the end (but before "or") insert "for that type of
 licence", and
 (c) in paragraph (b), at the end insert "for that type of licence".
-(6)   Section 229 (report in anticipation of new licensing round) is amended as
+(6)    Section 229 (report in anticipation of new licensing round) is amended as
 follows.
-(7)   In subsection (1), after "licensing period" insert "for a type of relevant licence".
-(8)   In subsection (2)--
-(a) for "holders of relevant licences" substitute "holder or holders of that
+(7)    In subsection (1), after "licensing period" insert "for a type of relevant licence".
+(8)    In subsection (2)--
+
+(a)   for "holders of relevant licences" substitute "holder or holders of that
 type of licence", and
-(b) for "licence holders" substitute "licence holder or holders".
-(9)   In subsection (3)(a) and (b), for "relevant licences" substitute "that type of
+(b)   for "licence holders" substitute "licence holder or holders".
+(9)    In subsection (3)(a) and (b), for "relevant licences" substitute "that type of
 licence".
-(10)      After subsection (4) insert--
-"(4A)   Subsection (5) applies where the Secretary of State--
+(10)       After subsection (4) insert--
+"(4A)    Subsection (5) applies where the Secretary of State--
 (a) receives a report under this section in anticipation of the end of
 a licensing period for a type of relevant licence, and
 (b) subsequently makes an order under section 224 extending the
 licensing period for that type of licence."
-(11)      In subsection (5)--
+(11)       In subsection (5)--
 (a) for the words from the beginning to "the order--" substitute "Where
 this subsection applies--", and
 (b) in paragraph (a), for "he" substitute "the Secretary of State" and at the
 end (but before "and") insert "for that type of licence".
-(12)      In subsection (6), in the definition of "licensing period"--
+(12)       In subsection (6), in the definition of "licensing period"--
 (a) in the opening words, after ""licensing period"" insert ", in relation to a
 licence,",
 (b) in paragraph (a), at the end (but before "or") insert "for that type of
 licence", and
 (c) in paragraph (b), at the end insert "for that type of licence".
-(13)      Section 230 (orders suspending rights of renewal) is amended as follows.
-(14)      In subsection (2), for "licences for the time being in force that are of a
+(13)       Section 230 (orders suspending rights of renewal) is amended as follows.
+(14)       In subsection (2), for "licences for the time being in force that are of a
 description specified in the order are" substitute "a licence for the time being
 in force that is of a description specified in the order is".
-(15)      In that subsection, at the end insert "(but see subsection (7))".
-(16)      In each of subsections (3), (4), (5) and (8)(b), for "licences" substitute "a licence".
-(17)      In subsection (7), for "Channel 3 licences" substitute "a Channel 3 licence".
-(18)      In subsection (11), in the definition of "initial licensing period"--
+(15)       In that subsection, at the end insert "(but see subsection (7))".
+(16)       In each of subsections (3), (4), (5) and (8)(b), for "licences" substitute "a licence".
+(17)       In subsection (7), for "Channel 3 licences" substitute "a Channel 3 licence".
+(18)       In subsection (11), in the definition of "initial licensing period"--
+(a) after ""initial licensing period"" insert ", in relation to a licence,", and
+(b) at the end (but before "and") insert "for that type of licence".
 
-(a)   after ""initial licensing period"" insert ", in relation to a licence,", and
-(b)   at the end (but before "and") insert "for that type of licence".
-
-26         Report by OFCOM on public teletext service
+27         Report by OFCOM on public teletext service
 After section 218 of the Communications Act 2003 insert--
 "218A Duty to report on public teletext service
 (1)   OFCOM must--
@@ -1578,6 +1695,7 @@ section comes into force.
 (2)   OFCOM must prepare and send to the Secretary of State further reports
 on the public teletext service when asked to do so by the Secretary of
 State.
+
 (3)   Each report must include, in particular--
 (a) an assessment of the advantages and disadvantages for
 members of the public of the public teletext service being
@@ -1588,11 +1706,15 @@ sustainable.
 (4)   An assessment under subsection (3)(a) must take account of alternative
 uses for the capacity that would be available if the public teletext
 service were not provided.
-(5)   "Capacity" means capacity on the frequencies on which Channel 3
+(5)   OFCOM must publish every report under this section--
+(a) as soon as practicable after they send it to the Secretary of State,
+and
+(b) in such manner as they consider appropriate.
+(6)   "Capacity" means capacity on the frequencies on which Channel 3
 services, Channel 4, S4C and television multiplex services are
 broadcast."
 
-27         Power to remove OFCOM's duty to secure provision of public teletext service
+28         Power to remove OFCOM's duty to secure provision of public teletext service
 (1)    Section 218 of the Communications Act 2003 (provision of public teletext
 service) is amended as follows.
 (2)    In subsection (1)--
@@ -1609,30 +1731,30 @@ licence).
 (6)    In section 276(1) of that Act (co-operation with the public teletext provider), for
 "the provider of the service or channel" substitute ", if there is a public teletext
 provider, the provider of the Channel 3 service or Channel 4".
-
 (7)    In section 362 of that Act (interpretation of Part 3), in the definition of "the
 public teletext service", for "is required to be" substitute "is or may be".
 (8)    The amendments made by this section and the entries in Schedule 3 relating to
-sections 218(7) and 221 of the Communications Act 2003 (and section 46 so far
+sections 218(7) and 221 of the Communications Act 2003 (and section 47 so far
 as relating to those entries) come into force on such day as the Secretary of State
 may by order made by statutory instrument appoint.
 (9)    An order may not be made under subsection (8) unless--
 (a) condition A or B is met,
 (b) the Secretary of State is satisfied that making the order is in the public
 interest, and
-(c) a draft of the instrument containing the order has been laid before, and
+
+(c)   a draft of the instrument containing the order has been laid before, and
 approved by a resolution of, each House of Parliament.
-(10)       Condition A is that the Secretary of State has laid before Parliament a report by
+(10)    Condition A is that the Secretary of State has laid before Parliament a report by
 the Office of Communications ("OFCOM") under section 218A of the
 Communications Act 2003 (report on public teletext service).
-(11)       Condition B is that OFCOM have invited applications for the licence to provide
+(11)    Condition B is that OFCOM have invited applications for the licence to provide
 the public teletext service (within the meaning of Part 3 of the Communications
 Act 2003) and--
 (a) no applications were made by the closing date, or
 (b) OFCOM considered that they could not award the licence to any of the
 applicants.
 
-28         Appointed providers of regional or local news
+29      Appointed providers of regional or local news
 After section 287 of the Communications Act 2003 insert--
 "287A Appointed providers of regional or local news
 (1)   OFCOM may--
@@ -1656,14 +1778,21 @@ appointment under this section.
 (a) must specify the period for which the person is appointed,
 (b) must specify the area for which the person is appointed (the
 "appointed area"),
-
-(c)    may specify the parts of the appointed area, or the communities,
+(c) may specify the parts of the appointed area, or the communities,
 for which the appointed person is to provide local news,
-(d)    may make provision for the variation of the appointment,
+(d) may make provision for the variation of the appointment,
 including the appointed area,
-(e)    may be made subject to such conditions as OFCOM consider
-appropriate, and
-(f)    may be revoked by OFCOM at any time.
+(e) must be made subject to such conditions relating to the form,
+character and quality of the relevant media content as OFCOM
+consider appropriate,
+(f) must be made subject to such conditions as OFCOM consider
+appropriate for securing the standards objectives in section
+319(2)(c) and (d) (impartiality and accuracy in programmes
+included in television and radio services),
+
+(g)    may be made subject to such other conditions as OFCOM
+consider appropriate, and
+(h)    may be revoked by OFCOM at any time.
 (6)   The conditions may include, in particular, conditions requiring the
 appointed person to make the relevant media content available to--
 (a) the provider of the regional Channel 3 service for the appointed
@@ -1672,13 +1801,11 @@ area,
 appointed news provider for Channel 3, and
 (c) any other person.
 (7)   The conditions may also include, in particular--
-(a) conditions relating to the form, character and quality of the
-relevant media content,
-(b) conditions requiring the appointed person to broadcast or
+(a) conditions requiring the appointed person to broadcast or
 distribute the relevant media content, whether by means
 involving the use of an electronic communications network or
 otherwise, and
-(c) conditions requiring the appointed person to support and
+(b) conditions requiring the appointed person to support and
 promote the provision by other persons of regional news or
 local news (or both) for the appointed area, whether in the form
 of relevant media content or otherwise.
@@ -1687,25 +1814,34 @@ OFCOM consider appropriate, including--
 (a) conditions as to the use of the amount, and
 (b) conditions as to the circumstances in which all or part of the
 amount must be repaid.
-(9)   Section 287(5) and (6) apply to a condition imposed under subsection
+(9)   Before inviting applications for an appointment under this section to
+provide news for all or part of a designated Channel 3 area, OFCOM
+must--
+(a) give notice to the provider of the regional Channel 3 service for
+the area, and
+(b) have regard to any representations made by the provider of that
+service during the period specified in the notice.
+(10)    The period must end not less than 28 days after the date on which
+OFCOM give the notice.
+(11)    Section 287(5) and (6) apply to a condition imposed under subsection
 (3) as they apply to a condition imposed under that section.
-(10)    OFCOM must consult the Secretary of State--
+(12)    OFCOM must consult the Secretary of State--
 (a) before publishing criteria in accordance with subsection (4), and
 (b) before determining conditions to be imposed under subsection
-(5)(e) or (8).
-(11)    In this section--
+(5) or (8).
+(13)    In this section--
 "designated Channel 3 area" means an area--
 (a) for which a regional Channel 3 service is provided, and
 (b) which has been designated for the purposes of this
 section by OFCOM with the consent of the Secretary of
 State;
+
 "local news", for an appointed area, means news that is intended
 to be of particular interest to persons living within a part of the
 area or to a particular community living within the area;
 "regional news", for an appointed area, means news that is
 intended to be of particular interest to persons living within the
 area;
-
 "relevant media content" means material, other than
 advertisements, which is included, or is capable of being
 included, in any of the following services that are available to
@@ -1716,14 +1852,14 @@ services or digital additional television services,
 (c) other services provided by means of the internet where
 there is a person who exercises editorial control over the
 material included in the service.
-(12)   The services that are to be taken for the purposes of this section to be
+(14)   The services that are to be taken for the purposes of this section to be
 available to members of the public include any service which--
 (a) is available for reception by members of the public (within the
 meaning of section 361); or
 (b) is available for use by members of the public (within the
 meaning of section 368R(4))."
 
-29         Broadcasting of programmes in Gaelic
+30         Broadcasting of programmes in Gaelic
 (1)    Omit section 184 of the Broadcasting Act 1990 (broadcasting of programmes in
 Gaelic on Channel 3 in Scotland).
 (2)    Accordingly, omit section 183A(7)(a) and (b) of that Act (representation in
@@ -1731,7 +1867,7 @@ Gaelic Media Service of interests of holders of certain licences).
 
 Independent radio services
 
-30         Digital switchover
+31         Digital switchover
 (1)    In section 86(6) of the Broadcasting Act 1990 (varying licences under Part 3), for
 "section 110(1)(b)" substitute "section 97B or 110(1)(b)".
 (2)    After section 97 of that Act insert--
@@ -1746,11 +1882,11 @@ the Secretary of State must have regard to any report submitted by
 OFCOM or the BBC under section 67(1)(b) of the Broadcasting Act 1996
 (review of digital radio broadcasting).
 (3)   The Secretary of State--
-(a) may nominate different dates for different services, and
-(b) may give notice to OFCOM withdrawing a nomination under
-this section.
-(4)   In this section and section 97B--
 
+(a)   may nominate different dates for different services, and
+(b)   may give notice to OFCOM withdrawing a nomination under
+this section.
+(4)    In this section and section 97B--
 "date for digital switchover", in relation to a post-commencement
 service, means a date after which it will cease to be appropriate
 for the service to continue to be provided in analogue form;
@@ -1778,7 +1914,7 @@ after that date."
 (3)    In section 199(5) of that Act (publication of notices by OFCOM), after "55,"
 insert "97B,".
 
-31         Renewal of national radio licences
+32         Renewal of national radio licences
 (1)    In section 103A of the Broadcasting Act 1990 (renewal of national licences), in
 subsection (1), after "renewed" insert "under this section".
 (2)    After that section insert--
@@ -1792,12 +1928,12 @@ the renewal of a licence under this section as they apply in relation to
 the renewal of a licence under section 103A, subject to subsection (3).
 (3)    Those provisions apply in relation to the renewal of a licence under this
 section as if the following were omitted--
-(a) subsection (4)(b),
-(b) in subsection (4)(c), the words from "or OFCOM" to the end,
-(c) subsection (6)(a),
-(d) subsection (8)(a), and
 
-(e)   subsection (9)(c).
+(a)    subsection (4)(b),
+(b)    in subsection (4)(c), the words from "or OFCOM" to the end,
+(c)   subsection (6)(a),
+(d)    subsection (8)(a), and
+(e)    subsection (9)(c).
 (4)   Where OFCOM renew a licence under this section they must include in
 the licence as renewed a condition requiring the licence holder to do all
 that the licence holder can to secure the broadcasting of a simulcast
@@ -1810,11 +1946,11 @@ purposes of that section (as applied) is a date which is not more than 15
 months after the day on which this section comes into force, and
 (b) the determination is made as soon as practicable after that day.
 
-32         Renewal and variation of local radio licences
+33         Renewal and variation of local radio licences
 (1)    In section 104A of the Broadcasting Act 1990 (renewal of local licences)--
 (a) in subsection (1), after "renewed" insert "under this section", and
 (b) after that subsection insert--
-"(1A)   A local licence may be renewed under this section only if it is
+"(1A)    A local licence may be renewed under this section only if it is
 granted before the day on which section 104AA comes into
 force."
 (2)    After that section insert--
@@ -1836,13 +1972,13 @@ subsection (2)" were omitted.
 licence under this section makes a national nomination in accordance
 with section 104AB, section 104A (as applied) has effect as if--
 (a) subsections (4) and (13)(b) were omitted,
-(b) references to the nominated local digital sound programme
+
+(b)    references to the nominated local digital sound programme
 service were references to the national digital sound
 programme service nominated under section 104AB, and
-(c) references to the nominated local radio multiplex service were
+(c)    references to the nominated local radio multiplex service were
 references to the national radio multiplex service nominated
 under section 104AB.
-
 (6)   In this section and sections 104AB and 104AC--
 "approved licence" means a local licence approved by OFCOM for
 the purposes of this section;
@@ -1883,13 +2019,13 @@ in accordance with section 104AB(4).
 vary the licence mentioned in subsection (1)(a) by--
 (a) removing the local digital services condition, and
 (b) adding a national digital services condition.
+
 (3)   OFCOM must have received an application for the variation from the
 licence holder.
 (4)   OFCOM must be satisfied that, if they varied the licence, the
 programmes included in the nominated national digital sound
 programme service in each calendar month would include at least 80%
 of the programmes included in the service provided under that licence.
-
 (5)   In this section--
 "local digital services condition" means a condition requiring the
 licence holder to do all that the licence holder can to ensure that
@@ -1913,9 +2049,9 @@ months after the day on which this section comes into force, and
 (4)    The requirement under section 104AA(7) of the Broadcasting Act 1990 may be
 satisfied by the publication of a document before this section comes into force.
 
-33         Variation of licence period following renewal
+34         Variation of licence period following renewal
 (1)    In section 86(6) of the Broadcasting Act 1990 (variation of licence period etc),
-after "section 97B" (inserted by section 30) insert ", 105A".
+after "section 97B" (inserted by section 31) insert ", 105A".
 (2)    Before section 106 (but after the heading preceding that section) insert--
 "105A Variation of licence period following renewal
 (1)   This section applies if the Secretary of State--
@@ -1930,12 +2066,12 @@ as are specified or described in the notice.
 may not fix a date falling before 31 December 2015.
 (4)   If the period for which a licence to provide a relevant renewed service
 is to continue in force ends after the termination date fixed for the
+
 service, OFCOM must by notice vary the licence so that the period ends
 on or before that date, subject to subsection (5).
 (5)   OFCOM may not reduce the period so that it ends on a day falling less
 than 2 years after the date on which they issue the notice, unless the
 licence holder consents to such a reduction.
-
 (6)   If the period for which a licence to provide a relevant renewed service
 is to continue in force ends on or before the termination date fixed for
 the service, OFCOM may not vary the licence so that the period ends
@@ -1952,7 +2088,7 @@ section 105A(7) of the Broadcasting Act 1990)--
 the Secretary of State must, before 31 December 2013, consider whether to give
 a notice under that section in relation to that service.
 
-34         Content and character of local sound broadcasting services
+35         Content and character of local sound broadcasting services
 (1)    In section 106(1A) of the Broadcasting Act 1990 (conditions relating to
 departures from character of licensed service), after paragraph (d) insert "; or
 (e) that, in the case of a local licence--
@@ -1977,14 +2113,14 @@ local sound broadcasting service, means an area
 approved by OFCOM for the purposes of this section
 that includes the area or locality for which the service is
 provided;", and
-(b) in the definition of "locally-made", at the end insert "or, if there is an
+
+(b)   in the definition of "locally-made", at the end insert "or, if there is an
 approved area for the programmes, that area".
 (6)    After subsection (8) insert--
 "(9)   Before approving an area for the purposes of this section, OFCOM must
 publish a document specifying--
-
-(a)   the area that they propose to approve, and
-(b)   a period in which representations may be made to OFCOM
+(a) the area that they propose to approve, and
+(b) a period in which representations may be made to OFCOM
 about the proposals.
 (10)   OFCOM may withdraw their approval of all or part of an area at any
 time if the holder of the licence to provide the local sound broadcasting
@@ -1995,39 +2131,43 @@ notice giving details of the area."
 (7)    The requirement under section 314(9) of the Communications Act 2003 may be
 satisfied by the publication of a document before this section comes into force.
 
-35         Local radio multiplex services: frequency and licensed area
+36         Radio multiplex services: frequency and licensed area
 After section 54 of the Broadcasting Act 1996 insert--
-"54A Variation of local radio multiplex licences: frequency or licensed area
-(1)   OFCOM may, if the requirements of this section are met, vary a local
-radio multiplex licence by--
+"54A Variation of radio multiplex licences: frequency or licensed area
+(1)   OFCOM may, if the requirements of subsections (3) to (5) are met, vary
+a national radio multiplex licence by extending the area in which the
+licensed service is required to be available.
+(2)   OFCOM may, if the requirements of subsections (3) to (6) are met, vary
+a local radio multiplex licence by--
 (a) varying the frequency on which the licensed service is required
 to be provided,
 (b) reducing the area or locality in which the licensed service is
 required to be available, or
 (c) extending that area or locality to include an adjoining area or
 locality.
-(2)   OFCOM must have received an application for the variation from the
+(3)   OFCOM must have received an application for the variation from the
 licence holder.
-(3)   The application must include a technical plan relating to the service
+(4)   The application must include a technical plan relating to the service
 proposed to be provided under the licence indicating, in particular--
 (a) the area or locality which would be within the coverage area of
 the service,
 (b) the timetable in accordance with which that coverage would be
 achieved, and
 (c) the technical means by which it would be achieved.
-(4)   Before deciding whether to grant the application, OFCOM must
+(5)   Before deciding whether to grant the application, OFCOM must
 publish a notice specifying--
 (a) the proposed variation of the licence, and
 (b) a period in which representations may be made to OFCOM
 about the proposal.
-(5)   OFCOM may vary the licence in accordance with the application only
-if they are satisfied that doing so would not unacceptably narrow the
-range of programmes available by way of local digital sound
-programme services to persons living in the area or locality for which,
-before the proposed variation, the local radio multiplex service is
-required to be available."
 
-36         Renewal of radio multiplex licences
+(6)   In the case of a local radio multiplex licence, OFCOM may vary the
+licence in accordance with the application only if they are satisfied that
+doing so would not unacceptably narrow the range of programmes
+available by way of local digital sound programme services to persons
+living in the area or locality for which, before the proposed variation,
+the local radio multiplex service is required to be available."
+
+37         Renewal of radio multiplex licences
 (1)    After section 58 of the Broadcasting Act 1996 insert--
 "58A Renewal of radio multiplex licences: supplementary
 (1)   The Secretary of State may by regulations--
@@ -2062,22 +2202,22 @@ multiplex service;".
 
 Regulation of television and radio services
 
-37         Application of regulatory regimes to broadcasters
+38         Application of regulatory regimes to broadcasters
 In section 263 of the Communications Act 2003 (application of regulatory
+
 regimes to broadcasters), for subsection (4) substitute--
 "(4)   The Secretary of State may by order provide for--
 (a) a condition included by virtue of this Act in a regulatory regime
 to be excluded from the regime;
 (b) a condition excluded from a regulatory regime by an order
 under this subsection to be included in the regime again.
-
 (4A)    An order under subsection (4) may, in particular, provide for a
 condition to be included or excluded for a period specified in the
 order."
 
 Access to electromagnetic spectrum
 
-38         Payment for licences
+39         Payment for licences
 (1)    Section 12 of the Wireless Telegraphy Act 2006 (charges for grant of licence) is
 amended as follows.
 (2)    In subsection (5) at the end insert ", but this is subject to subsection (6)."
@@ -2111,24 +2251,24 @@ one such other licence ("predecessor licence") and a licence may be a
 predecessor licence to more than one surrendered-spectrum licence."
 (4)    Section 14 of the Wireless Telegraphy Act 2006 (bidding for licences) is
 amended as follows.
+
 (5)    In subsection (5) after "those sums must" insert ", subject to subsection (5A),".
 (6)    After subsection (5) insert--
 "(5A)    The regulations may, with the consent of the Secretary of State, make
 provision permitting or requiring a surrendered-spectrum licence to
 which the regulations apply to include--
-
-(a)   provision requiring all or part of a sum that would otherwise be
+(a) provision requiring all or part of a sum that would otherwise be
 payable to OFCOM under subsection (5) to be paid to a person
 who was or is the holder of a predecessor licence;
-(b)   provision requiring a sum in addition to that payable to
+(b) provision requiring a sum in addition to that payable to
 OFCOM under subsection (5) to be paid to such a person;
-(c)   provision specifying any such sum or part or the method for
+(c) provision specifying any such sum or part or the method for
 determining it."
 (7)    After subsection (8) insert--
 "(9)   In subsection (5A) "surrendered-spectrum licence" and "predecessor
 licence" have the meaning given by section 12(8) and (9)."
 
-39         Enforcement of licence terms etc
+40         Enforcement of licence terms etc
 (1)    In Chapter 4 of Part 2 of the Wireless Telegraphy Act 2006 (enforcement of
 regulation of radio spectrum) after section 43 insert--
 "43A Special procedure for contraventions of certain provisions
@@ -2157,15 +2297,15 @@ period within which the penalty is to be paid.
 (a) must be paid to OFCOM; and
 (b) if not paid within the period fixed by them, is to be recoverable
 by them accordingly.
+
 (5)   No proceedings for an offence under this Chapter may be commenced
 against a person in respect of a contravention in respect of which a
 penalty has been imposed by OFCOM under this section.
 (6)   The amount of a penalty imposed under this section is to be such
 amount not exceeding 10 per cent of the relevant amount of gross
 revenue as OFCOM think--
-
-(a)   appropriate; and
-(b)   proportionate to the contravention in respect of which it is
+(a) appropriate; and
+(b) proportionate to the contravention in respect of which it is
 imposed."
 (2)    In section 44 of that Act (relevant amount of gross revenue), in subsections (1)
 and (10), after "43" insert "or 43A".
@@ -2174,7 +2314,7 @@ penalties), in subsection (1)(d), after "42" insert "or 43A".
 
 Video recordings
 
-40         Classification of video games etc
+41         Classification of video games etc
 (1)    Section 2 of the Video Recordings Act 1984 (exempted video works) is
 amended as follows.
 (2)    In subsection (1)--
@@ -2188,7 +2328,12 @@ of this Act an exempted work if--
 (b) it is, taken as a whole, concerned with sport, religion or music;
 or
 (c) it satisfies one or more of the conditions in section 2A."
-(4)    After section 2 of that Act insert--
+(4)    After subsection (3) insert--
+"(4)   The Secretary of State may by regulations amend this section--
+(a) by adding or removing a case in which a video work is not an
+exempted work, or
+(b) by amending a description of such a case."
+(5)    After section 2 of that Act insert--
 "2A Conditions relating to video games
 (1)   The conditions referred to in section 2(1A)(c) are as follows.
 (2)   The first condition is that the video game does not include any of the
@@ -2196,20 +2341,20 @@ following--
 (a) depictions of violence towards human or animal characters,
 whether or not the violence looks realistic and whether or not
 the violence results in obvious harm,
-(b) depictions of violence towards other characters where the
+
+(b)    depictions of violence towards other characters where the
 violence looks realistic,
-(c) depictions of criminal activity that are likely, to any extent, to
+(c)    depictions of criminal activity that are likely, to any extent, to
 stimulate or encourage the commission of offences,
-(d) depictions of activities involving illegal drugs or the misuse of
+(d)    depictions of activities involving illegal drugs or the misuse of
 drugs,
-(e) words or images that are likely, to any extent, to stimulate or
+(e)    words or images that are likely, to any extent, to stimulate or
 encourage the use of alcohol or tobacco,
-(f) words or images that are intended to convey a sexual message,
-(g) swearing, or
-(h) words or images that are intended or likely, to any extent, to
+(f)   words or images that are intended to convey a sexual message,
+(g)    swearing, or
+(h)    words or images that are intended or likely, to any extent, to
 cause offence, whether on the grounds of race, gender,
 disability, religion or belief or sexual orientation or otherwise.
-
 (3)   In subsection (2) "human or animal character" means a character that is,
 or whose appearance is similar to that of--
 (a) a human being, or
@@ -2226,8 +2371,8 @@ persons under the age of 12.
 such a condition).
 (6)   Regulations under this section may make provision by reference to
 documents produced by the designated authority."
-(5)    In section 3 of that Act (exempted supplies), after subsection (8) insert--
-"(8A)    The supply of a video recording in the form of a machine of a type
+(6)    In section 3 of that Act (exempted supplies), after subsection (8) insert--
+"(8A)     The supply of a video recording in the form of a machine of a type
 designed primarily for use in an amusement arcade is an exempted
 supply unless the video game (or, if more than one, any of the video
 games) that it contains--
@@ -2236,17 +2381,18 @@ games) that it contains--
 (b) is likely to any significant extent to stimulate or encourage
 anything falling within section 2(2)(a) or, in the case of anything
 falling within section 2(2)(b), is likely to any extent to do so.
-(8B)   The supply of any other video recording is an exempted supply if the
+(8B)    The supply of any other video recording is an exempted supply if the
 recording is supplied for the purpose only of its use in connection with
 a supply that is an exempted supply under subsection (8A)."
-(6)    At the end of that section insert--
-"(13)   The Secretary of State may by regulations amend this section and the
+(7)    At the end of that section insert--
+"(13)    The Secretary of State may by regulations amend this section and the
 regulations may, in particular--
 (a) add a case in which the supply of a video recording is an
 exempted supply for the purposes of this Act, or
-(b) repeal a provision of this section."
 
-41         Designated authority for video games etc
+(b)   repeal a provision of this section."
+
+42         Designated authority for video games etc
 (1)    After section 4 of the Video Recordings Act 1984 insert--
 "4ZA Designated authorities for video games and other video works
 (1)   The power to designate a person by notice under section 4 includes
@@ -2255,7 +2401,6 @@ power to designate different persons--
 of video games ("the video games authority"), and
 (b) as the authority responsible for making arrangements in respect
 of other video works ("the video works authority").
-
 (2)   Where there are two designated authorities, references in this Act to the
 designated authority, in relation to a video work, are references to the
 designated authority responsible for making arrangements in respect
@@ -2290,6 +2435,7 @@ considers appropriate.
 (6)   A question as to which designated authority is responsible for making
 arrangements in respect of a video game may be conclusively
 determined by the video games authority.
+
 4ZC Designated authorities: video works included in video games
 (1)   The video games authority may make such arrangements in respect of
 video works included in video games as it considers are necessary for
@@ -2301,8 +2447,7 @@ the following--
 (a) arrangements for having regard to any classification certificate
 issued by the video works authority in respect of a video work
 included in a video game;
-
-(b)   arrangements for obtaining and having regard to a
+(b) arrangements for obtaining and having regard to a
 determination by the video works authority as to the suitability
 of all or part of a video work included in a video game.
 (3)   For the purpose of determining the extent to which arrangements
@@ -2318,7 +2463,7 @@ certificate of a particular description."
 
 Copyright and performers' property rights: licensing and penalties
 
-42         Extension and regulation of licensing of copyright and performers' rights
+43         Extension and regulation of licensing of copyright and performers' rights
 (1)    In the Copyright, Designs and Patents Act 1988 (the "1988 Act") after section
 116 insert--
 
@@ -2327,158 +2472,176 @@ Copyright and performers' property rights: licensing and penalties
 (1)   The Secretary of State may by regulations provide for authorising a
 licensing body or other person to do, or to grant licences to do, acts in
 relation to an orphan work which would otherwise require the consent
-of the copyright owner.
-(2)   An authorisation or licence under the regulations in favour of any
+of the missing copyright owner.
+(2)   Where the missing copyright owner is not the sole owner of copyright
+in the work, an authorisation does not affect the need for consent from
+any other owner of copyright.
+(3)   An authorisation or licence under the regulations in favour of any
 person must not preclude any authorisation or licence in favour of
 another person.
-(3)   The regulations may provide for the treatment of royalties or other
+(4)   The regulations must provide for the treatment of royalties or other
 sums paid in respect of an authorisation or licence, including--
-(a) the deduction of administrative costs;
-(b) the period for which sums must be held for the copyright
+
+(a)   the deduction of administrative costs;
+(b)   the period for which sums must be held for the copyright
 owner;
-(c) the treatment of sums after that period (as bona vacantia or
+(c)   the treatment of sums after that period (as bona vacantia or
 otherwise).
-(4)   The regulations may provide for determining the rights and obligations
-of any person if an interest in copyright ceases to be included in an
-orphan works register (see section 116C).
-(5)   The regulations may provide for the Secretary of State to determine
+(5)   The regulations may provide for determining the rights and obligations
+of any person if an interest in copyright ceases to be included in a
+register kept in accordance with section 116D(1).
+(6)   The regulations may provide for the Secretary of State to determine
 whether any requirement of the regulations for a person's becoming or
 remaining authorised has been met or ceased to be met.
 116B Extended licensing schemes
 (1)   The Secretary of State may by regulations provide for authorising a
 licensing body to grant copyright licences (within the meaning of
-
 section 116) in respect of works in which copyright is not owned by the
 body or a person on whose behalf the body acts.
 (2)   The regulations may not authorise the grant of a licence--
 (a) in respect of an unpublished work, unless it is a broadcast or a
-work included in a broadast, or
+work included in a broadcast, or
 (b) in respect of rights excluded by notice given by the copyright
 owner in accordance with the regulations.
-(3)   Subsections (2) to (5) of section 116A apply to regulations under this
-section (but subsections (3)(b) and (c) and (4) apply only in relation to
+(3)   Subsections (3) to (6) of section 116A apply to regulations under this
+section (but subsections (4)(b) and (c) and (5) apply only in relation to
 an orphan work).
-116C Orphan works: supplementary
-(1)   A work is an orphan work, for the purposes of an authorisation given
-or to be given to a person (an "authorised person") under section 116A
-or 116B, if any interest in copyright in the work is entered in a register
-maintained for the purposes of this section by that person (an "orphan
-works register").
-(2)   An authorisation in respect of an orphan work does not affect the need
-for any consent--
-(a) from the owner of an interest not entered in the authorised
-person's orphan works register (except in the case of an
-authorisation under section 116B that extends to other
-interests), or
-(b) from the owner of an interest that is entered in that register, if
-the authorisation does not apply to that interest.
-(3)   An authorised person must not enter an interest in an orphan works
-register unless the authorised person--
-(a) has complied with the requirements of subsection (8) in respect
-of that interest and has not found the owner of the interest, or
-(b) has reasonable grounds for believing that another person has
-complied with those requirements in respect of that interest and
-that the owner of that interest has not been found.
-(4)   An entry in an orphan works register relating to an interest in copyright
-must include the record kept in accordance with subsection (8)(c).
-(5)   If an authorised person finds the owner of an interest entered in that
-authorised person's orphan works register, the authorised person must
-remove the entry.
-(6)   If in relation to an interest entered in an authorised person's orphan
-works register, the authorised person--
-(a) is aware that the requirements of subsection (8) were not
-complied with, or
-(b) is aware of information that makes it no longer reasonable to
-rely on what was done in compliance with those requirements,
-the authorised person must comply as soon as possible with the
-requirements of subsection (8) or remove the entry.
-(7)   A failure by an authorised person to comply with any of subsections (3)
-to (6) in relation to an interest to which an authorisation applies--
-
-(a)    does not affect the authorisation in relation to that interest,
-except so far as regulations may provide, but
-(b)    is actionable as a breach of statutory duty owed to the owner of
-that interest.
-(8)   The requirements of this subsection in respect of any interest in
-copyright are--
-(a) to carry out a reasonable search to find or, if necessary, to
-identify and find, the owner of the interest,
-(b) after the search, to publish notice of the proposal to enter the
-interest in an orphan works register, in a way designed to bring
-the proposal to the attention of the owner of that interest, and
-(c) to keep a sufficient record of the steps taken under paragraphs
-(a) and (b) and of the results of those steps.
-(9)   For the purposes of subsection (8)(a) the person carrying out the search
+116C Meaning of "orphan work"
+(1)   A work is an orphan work if a person--
+(a) has carried out a diligent search to find or, if necessary, to
+identify and find, the owner of, or of an interest in, copyright in
+the work, and
+(b) has published the notice required by this section,
+but has not found the owner.
+(2)   References to the missing copyright owner in relation to an orphan
+work are references to that owner.
+(3)   For the purposes of subsection (1)(a) the person carrying out the search
 must in particular--
 (a) make such use as is reasonable of sources of information,
-including sources within subsection (11), relating to the work's
+including sources within subsection (4), relating to the work's
 apparent country of origin, and
 (b) have regard to any presumptions under section 104 or 105 that
 would apply in relation to the work in any proceedings.
-(10)    The sources referred to in subsection (9)(a) are--
+(4)   The sources referred to in subsection (3)(a) are--
 (a) licensing bodies;
 (b) associations of publishers or authors;
 (c) systems for identifying works of the type concerned;
 (d) published library catalogues and indexes;
-(e) public databases, including public records that may indicate
+
+(e)    public databases, including public records that may indicate
 successors in title.
-(11)    For the purposes of subsection (9)(a) a work's apparent country of
+(5)   For the purposes of subsection (3)(b) a work's apparent country of
 origin is the country which the person carrying out the search
 reasonably believes is most likely to be--
 (a) the country of the work's first publication, or
 (b) if the work has not been published, the country with which its
 making is most closely connected.
-(12)    Any guidance issued by the Secretary of State must be taken into
-account in deciding whether the requirements of subsection (8) have
-been complied with.
-(13)    The Secretary of State may by regulations amend any of the preceding
+(6)   The notice required by subsection (1)(a) is notice of the proposal to
+enter the interest concerned in a register kept in accordance with
+section 116D(1), published in a way designed to bring the proposal to
+the attention of the owner of the interest.
+(7)   The Secretary of State may by regulations amend any of the preceding
 provisions of this section.
-116D Regulation and enforcement
+116D Orphan works: registration and compliance
+(1)   Regulations made by the Secretary of State must provide for an
+authorisation under section 116A or 116B to have effect in respect of an
+interest of a missing copyright owner only if the interest is entered in a
+register kept by the authorised person (an "orphan works register").
+(2)   The regulations must--
+(a) specify the form of an orphan works register and how it is to be
+kept, and
+(b) provide for an orphan works register to be made available to the
+public.
+(3)   An entry in an orphan works register must include a sufficient record
+of the steps taken for the purposes of section 116C(1)(a) and (b).
+(4)   An authorised person must not enter an interest in an orphan works
+register unless the authorised person--
+(a) has taken the steps referred to in section 116C(1)(a) and (b) and
+has not found the owner of the interest, or
+(b) has reasonable grounds for believing that another person has
+taken those steps and that the owner of the interest has not been
+found.
+(5)   If an interest is entered in an authorised person's orphan works register
+and the authorised person finds the owner of the interest, the
+authorised person must remove the entry.
+(6)   If in relation to an interest entered in an authorised person's orphan
+works register, the authorised person--
+(a) is aware that any of the steps referred to in section 116C(1)(a)
+and (b) was not taken, or
+(b) is aware of information that makes it no longer reasonable to
+rely on the steps taken,
+the authorised person must as soon as possible take those steps or
+remove the entry.
+(7)   Where an interest is entered in an orphan works register, regulations
+under section 116A or 116B may provide for an authorisation under
+
+that section to have effect in respect of that interest despite a failure to
+take steps referred to in section 116C(1)(a) or (b) or to comply with any
+of subsections (4) to (6).
+(8)   But a failure by an authorised person to comply with any of subsections
+(4) to (6) is actionable as a breach of statutory duty owed to the owner
+of the interest concerned (and see paragraph 4 of Schedule A1).
+(9)   Any guidance issued by the Secretary of State must be taken into
+account in deciding whether a person has taken the steps referred to in
+section 116C(1)(a) or (b) or has complied with subsection (3).
+(10)   The Secretary of State may by regulations amend any of the preceding
+provisions of this section.
+116E Regulation and enforcement
 Schedule A1 confers powers to provide for--
-(a) codes of practice relating to licensing bodies, and
-(b) the regulation of licensing bodies and of other persons
-authorised under section 116A or 116B.
-116E General
+(a) the regulation of licensing bodies, and of persons other than
+licensing bodies who are authorised under section 116A;
+(b) enforcement for the purposes of such regulation, or otherwise
+for the purposes of sections 116A to 116D.
+116F General
 (1)   Nothing in section 116B or Schedule A1 applies in relation to Crown
 copyright or Parliamentary copyright.
-
-(2)   The powers conferred by sections 116A to 116C and Schedule A1
+(2)   The powers conferred by sections 116A to 116D and Schedule A1
 include in particular power--
 (a) to make incidental, supplementary or consequential provision;
 (b) to make different provision for different purposes;
 (c) to extend or restrict the jurisdiction of the Copyright Tribunal.
 (3)   The power referred to in subsection (2)(a) to make consequential
 provision includes power to amend this Part.
-(4)   The power to make regulations under sections 116A to 116C and
+(4)   Before making provision as to requirements for a person's becoming or
+remaining authorised under section 116A or 116B, the Secretary of State
+must consult the persons the Secretary of State thinks likely to be
+affected (or persons who represent such persons) and such other
+persons as the Secretary of State thinks fit.
+(5)   The power to make regulations under sections 116A to 116D and
 Schedule A1 is exercisable by statutory instrument.
-(5)   A statutory instrument containing such regulations is subject to
+(6)   A statutory instrument containing such regulations is subject to
 annulment in pursuance of a resolution of either House of Parliament,
-but that is subject to subsection (6).
-(6)    Subsection (7) applies to a statutory instrument containing any of the
+but that is subject to subsection (7).
+(7)    Subsection (8) applies to a statutory instrument containing any of the
 following--
 (a) the first regulations made under section 116A;
 (b) the first regulations made under section 116B;
 (c) the first regulations made under paragraph 1 of Schedule A1;
-(d) the first regulations made under paragraph 3 of Schedule A1;
-(e) regulations under sections 116A to 116C or Schedule A1
-amending section 116C or another provision of this Part.
-(7)   The statutory instrument may not be made unless a draft of the
+(d) the first regulations made under paragraph 4 of Schedule A1;
+(e) regulations under sections 116A to 116D or Schedule A1
+amending any provision of this Part.
+
+(8)   The statutory instrument may not be made unless a draft of the
 instrument has been laid before and approved by a resolution of each
 House of Parliament."
 (2)    Schedule 2 (which inserts Schedule A1 to the 1988 Act and makes provision in
 relation to performers' property rights corresponding to provision made by
 this section in relation to copyright) has effect.
-(3)    In the 1988 Act insert in the appropriate place--
+(3)    In the 1988 Act insert in the appropriate places--
 (a) in section 179 (index of defined expressions in Part 1)--
 
+"missing       copyright     section 116C";
+owner (in relation to an
+orphan work)
 "orphan work                 section 116C";
 
 (b)   in section 212 (index of defined expressions in Part 2)--
-
+"missing rights owner (in    paragraph 1C of Schedule 2A";
+relation to orphan rights)
 "orphan right                paragraph 1C of Schedule 2A".
 
 
-43         Increase of penalties relating to infringing articles or illicit recordings
+44         Increase of penalties relating to infringing articles or illicit recordings
 (1)    The Copyright, Designs and Patents Act 1988 is amended as follows.
 (2)    In section 107 (criminal liability for making or dealing with infringing articles
 etc.) in subsections (4)(a) and (4A)(a) for "the statutory maximum" substitute
@@ -2489,7 +2652,7 @@ substitute "£50,000".
 
 Public lending right
 
-44         Public lending right
+45         Public lending right
 (1)    Section 5(2) of the Public Lending Right Act 1979 (interpretation) is amended
 as follows.
 (2)    Before the definition of "local library authority" insert--
@@ -2504,21 +2667,22 @@ written or spoken words or still pictures (an "e-book");
 "lent out"--
 (a) means made available to a member of the public for use
 away from library premises for a limited time, but
-(b) does not include being communicated by means of
+
+(b)  does not include being communicated by means of
 electronic transmission to a place other than library
 premises,
 and "loan" and "borrowed" are to be read accordingly;
 "library premises" has the meaning given in section 8(7) of the
 Public Libraries and Museums Act 1964;".
-(3)    After the definition of "prescribed" insert--
+(3)   After the definition of "prescribed" insert--
 ""producer" has the meaning given in section 178 of the
 Copyright, Designs and Patents Act 1988;".
-(4)    At the end of the definition of "the register" omit "and".
-(5)    After the definition of "the Registrar" insert--
+(4)   At the end of the definition of "the register" omit "and".
+(5)   After the definition of "the Registrar" insert--
 ""sound recording" has the meaning given in section 5A(1) of the
 Copyright, Designs and Patents Act 1988."
-(6)    The Copyright, Designs and Patents Act 1988 is amended as follows.
-(7)    In section 40A (permitted acts in relation to copyright works: lending of copies
+(6)   The Copyright, Designs and Patents Act 1988 is amended as follows.
+(7)   In section 40A (permitted acts in relation to copyright works: lending of copies
 by libraries or archives), for subsection (1) substitute--
 "(1)   Copyright in a work of any description is not infringed by the following
 acts by a public library in relation to a book within the public lending
@@ -2531,14 +2695,13 @@ copy of the book as an act incidental to lending it.
 section 5 of the Public Lending Right Act 1979,
 (b) "the public lending right scheme" means the scheme in force
 under section 1 of that Act,
-
-(c)   a book is within the public lending right scheme if it is a book
+(c) a book is within the public lending right scheme if it is a book
 within the meaning of the provisions of the scheme relating to
 eligibility, whether or not it is in fact eligible, and
-(d)    "lending" is to be read in accordance with the definition of "lent
+(d) "lending" is to be read in accordance with the definition of "lent
 out" in section 5 of that Act (and section 18A of this Act does not
 apply)."
-(8)    In Schedule 2, in paragraph 6B (permitted acts in relation to performances:
+(8)   In Schedule 2, in paragraph 6B (permitted acts in relation to performances:
 lending of copies by libraries or archives)--
 (a) at the beginning insert--
 "(A1) The rights conferred by this Chapter are not infringed by the
@@ -2550,12 +2713,13 @@ issuing a copy of the book as an act incidental to
 lending it.
 (A2) Expressions used in sub-paragraph (A1) have the same
 meaning as in section 40A(1).";
-(b)   in sub-paragraph (2), for "this paragraph" substitute "sub-paragraph
+
+(b)    in sub-paragraph (2), for "this paragraph" substitute "sub-paragraph
 (1)".
 
 General
 
-45         Power to make consequential provision etc
+46         Power to make consequential provision etc
 (1)    The Secretary of State may by regulations made by statutory instrument make
 incidental, supplementary, consequential, transitional, transitory or saving
 provision in connection with the amendments made by this Act.
@@ -2564,7 +2728,7 @@ provision in connection with the amendments made by this Act.
 (b) modify an Act passed before or in the same Session as this Act or
 subordinate legislation made before this Act is passed, and
 (c) where they are made in connection with an amendment made by
-section 27 or by a provision listed in section 48(3), modify a provision
+section 28 or by a provision listed in section 49(3), modify a provision
 of an Act passed, or subordinate legislation made, before the day on
 which that amendment comes into force.
 (3)    A statutory instrument containing regulations under this section that amend or
@@ -2579,10 +2743,10 @@ Parliament.
 "subordinate legislation" has the same meaning as in the Interpretation
 Act 1978.
 
-46         Repeals
+47         Repeals
 Schedule 3 (repeals) has effect.
 
-47         Extent
+48         Extent
 (1)    This Act extends to England and Wales, Scotland and Northern Ireland.
 (2)    An amendment of the following enactments that is made by this Act may be
 extended to any of the Channel Islands or the Isle of Man under the relevant
@@ -2595,44 +2759,44 @@ extending power--
 (3)    "Relevant extending power" means--
 (a) in relation to amendments of Part 1 of the Copyright, Designs and
 Patents Act 1988, section 157(2) of that Act;
-(b) in relation to amendments of the Broadcasting Act 1990, section 204(6)
+
+(b)   in relation to amendments of the Broadcasting Act 1990, section 204(6)
 of that Act;
-(c) in relation to amendments of the Broadcasting Act 1996, section 150(4)
+(c)   in relation to amendments of the Broadcasting Act 1996, section 150(4)
 of that Act;
-(d) in relation to amendments of the Communications Act 2003, section
+(d)   in relation to amendments of the Communications Act 2003, section
 411(6) of that Act;
-(e) in relation to amendments of the Wireless Telegraphy Act 2006, section
+(e)   in relation to amendments of the Wireless Telegraphy Act 2006, section
 118(3) of that Act.
 (4)    The power conferred by section 157(2)(c) of the Copyright, Designs and Patents
 Act 1988 (power to extend to British overseas territories) is exercisable in
 relation to any amendment made by this Act to Part 1 of that Act.
 
-48         Commencement
+49         Commencement
 (1)    This Act comes into force at the end of the period of two months beginning
 with the day on which it is passed, but this is subject to--
-(a) section 27(8), and
+(a) section 28(8), and
 (b) subsections (2) and (3).
 (2)    The following come into force on the day on which this Act is passed--
-(a) sections 6, 7, 8, 15 and 16(1),
-(b) sections 30 to 32, and
-(c) this section and sections 47 and 49.
+(a) sections 6, 7, 8, 16 and 17(1),
+(b) sections 31 to 33, and
+(c) this section and sections 48 and 50.
 (3)    The following come into force on such day as the Secretary of State may by
 order made by statutory instrument appoint--
-(a) sections 18 to 20,
-(b) section 29 and the entries in Schedule 3 relating to sections 183A and
+(a) sections 19 to 21,
+(b) section 30 and the entries in Schedule 3 relating to sections 183A and
 184 of the Broadcasting Act 1990 and Schedule 15 to the
-Communications Act 2003 (and section 46 so far as it relates to those
+Communications Act 2003 (and section 47 so far as it relates to those
 entries),
-(c) sections 40(1) to (5) and 41(1), paragraphs 2 to 4, 6 to 9 and 10(2) of
-Schedule 1 (and section 41(2) so far as it relates to those provisions) and
-
-the entries in Schedule 3 relating to sections 2, 4 and 22 of the Video
-Recordings Act 1984 (and section 46 so far as it relates to those entries),
-and
-(d)   section 44.
+(c) sections 41(2), (3), (5) and (6) and 42(1), paragraphs 2 to 4, 6 to 9 and
+10(2) of Schedule 1 (and section 42(2) so far as it relates to those
+provisions) and the entries in Schedule 3 relating to sections 2, 4 and 22
+of the Video Recordings Act 1984 (and section 47 so far as it relates to
+those entries), and
+(d) section 45.
 (4)    The Secretary of State may appoint different days for different purposes.
 
-49         Short title
+50         Short title
 This Act may be cited as the Digital Economy Act 2010.
 Schedule 1 -- Classification of video games etc: supplementary provision
 
@@ -2642,37 +2806,37 @@ Schedule 1 -- Classification of video games etc: supplementary provision
 SCHEDULES
 
 
-SCHEDULE 1                                              Section 41
+SCHEDULE 1                                 Section 42
 
 CLASSIFICATION OF VIDEO GAMES ETC: SUPPLEMENTARY PROVISION
 
-1       The Video Recordings Act 1984 is amended as follows.
-2   (1) Section 4 (authority to determine suitability of video works for classification)
+1           The Video Recordings Act 1984 is amended as follows.
+2     (1) Section 4 (authority to determine suitability of video works for classification)
 is amended as follows.
 (2) In subsection (1)(b)--
 (a) in sub-paragraph (i), after "issue" insert "or revocation", and
 (b) in sub-paragraph (ii), after "issuing" insert "and revoking".
 (3) After subsection (1B) insert--
-"(1C)    The arrangements made under this section may require a person
+"(1C)     The arrangements made under this section may require a person
 requesting a classification certificate for a video work to agree to
 comply with a code of practice, which may, in particular, include
 provision relating to the labelling of video recordings."
 (4) After subsection (3) insert--
-"(3A)    The Secretary of State must not make a designation under this
+"(3A)     The Secretary of State must not make a designation under this
 section unless satisfied that adequate arrangements will be made for
 taking account of public opinion in the United Kingdom."
 (5) For subsection (5) substitute--
-"(5)   No fee is recoverable by, or in accordance with arrangements made
+"(5)    No fee is recoverable by, or in accordance with arrangements made
 by, the designated authority in connection with a determination in
 respect of a video work or the issue of a classification certificate
 unless the designated authority has consulted the Secretary of State
 about such fees."
 (6) Omit subsection (6).
 (7) After that subsection insert--
-"(6A)    When making arrangements under this section, the designated
+"(6A)     When making arrangements under this section, the designated
 authority must have regard to any guidance issued by the Secretary
 of State.
-(6B)   The Secretary of State may not issue guidance about the matters to be
+(6B)    The Secretary of State may not issue guidance about the matters to be
 taken into account when determining the suitability of a video work
 for the issue of a classification certificate or a classification certificate
 of a particular description."
@@ -2782,8 +2946,8 @@ Act includes--
 (a) power to make different provision for different purposes,
 and
 (b) power to make transitional or saving provision.
-(3)    A statutory instrument containing regulations under section 2A or 3
-may not be made unless a draft of the instrument has been laid
+(3)    A statutory instrument containing regulations under section 2, 2A or
+3 may not be made unless a draft of the instrument has been laid
 before, and approved by a resolution of, each House of Parliament.
 (4)    Any other statutory instrument containing regulations under this
 Act is subject to annulment in pursuance of a resolution of either
@@ -2794,7 +2958,7 @@ omitted.
 
 
 
-SCHEDULE 2                                              Section 42
+SCHEDULE 2                                              Section 43
 
 LICENSING OF COPYRIGHT AND PERFORMERS' PROPERTY RIGHTS
 
@@ -2803,54 +2967,79 @@ PART 1
 REGULATION OF LICENSING BODIES
 
 1        In the Copyright, Designs and Patents Act 1988 before Schedule 1 insert--
-"SCHEDULE A1                                Section 116D
+"SCHEDULE A1                                Section 116E
 
 REGULATION OF LICENSING BODIES
 
 Code of practice
 
-1      (1) The Secretary of State may by regulations require a licensing body
-to adopt a code of practice which complies with requirements set
-out in the regulations.
-(2) The regulations may in particular make provision requiring a code
-of practice to include--
-(a) provision relating to any matter to which regulations
-under section 116A or 116B may relate;
-(b) provision for a person to be appointed to represent the
-interests of persons dealing with the body in any capacity.
+1      (1) The Secretary of State--
+(a) must, in the case of a licensing body or other person
+authorised under section 116A or 116B, and
+(b) may, in the case of any licensing body that appears to the
+Secretary of State not to have a system of self-regulation
+protecting the interests of copyright owners, licensees,
+prospective licensees or the public,
 Schedule 2 -- Licensing of copyright and performers' property rights
 Part 1 -- Regulation of licensing bodies
 
-(3) The regulations may provide that in the case of a licensing body
-that fails to adopt a code of practice in accordance with the
-regulations, a code of practice approved by the Secretary of State
-or by a person designated under the regulations by the Secretary
-of State has effect as a code of practice adopted by the body.
-2     (1) The powers conferred by paragraph 1 are exercisable only so as to
-make provision applying in relation to a licensing body--
-(a) for the purposes of provision made under section 116A or
-116B as it applies to that body, or
-(b) where it appears to the Secretary of State that the body's
-system of self-regulation is failing to protect the interests of
-copyright owners, licensees, prospective licensees or the
-public.
-(2) The Secretary of State may by regulations make provision as to--
-(a) procedures to be followed before such provision applies in
-relation to a licensing body;
-(b) where such provision applies by virtue of sub-paragraph
-(1)(b), procedures to be followed before such provision
+require the licensing body or other person to adopt a code of
+practice which complies with requirements set out in the
+regulations.
+(2) The regulations may provide that in the case of a licensing body or
+other person that fails to adopt a code of practice in accordance
+with the regulations, a code of practice approved by the Secretary
+of State or by a person designated under the regulations by the
+Secretary of State has effect as a code of practice adopted by the
+body or other person.
+2           The Secretary of State may by regulations make provision as to--
+(a) procedures to be followed before provision under
+paragraph 1 applies in relation to a licensing body or other
+person;
+(b) where such provision applies by virtue of paragraph
+1(1)(b), procedures to be followed before such provision
 ceases to apply in relation to a licensing body.
+3     (1) Regulations under paragraph 1 must provide for a code applying
+to a licensing body to include provision relating to these matters--
+(a) obligations of the body to its members;
+(b) where the body is authorised under section 116B,
+obligations of the body to owners of copyright in works
+subject to the authorisation who are not members;
+(c) accounting arrangements in relation to royalties or other
+sums paid in respect of a licence;
+(d) obligations of the body to licensees;
+(e) control by the body of administration and marketing
+carried out by it or on its behalf;
+(f) the handling of complaints against the body, including the
+appointment of a person to represent the interests of
+complainants;
+(g) provision of information by the body, and other matters
+relating to transparency in relation to activities of the body;
+(h) the making of reports by the body to the Secretary of State.
+(2) Regulations under paragraph 1 must provide for a code to include,
+in relation to works to which an authorisation under section 116A
+or 116B applies that are registered as orphan works, provision
+relating to these matters--
+(a) accounting arrangements in relation to royalties or other
+sums paid in respect of a licence;
+(b) calculation of payments to copyright owners;
+(c) arrangements for holding sums for copyright owners;
+(d) provision of information by the authorised person.
 
 Enforcement
 
-3     (1) The Secretary of State may by regulations provide for the
+4     (1) The Secretary of State may by regulations provide for the
 consequences of a failure by a licensing body or other person to
 comply with--
 (a) a code of practice which has effect under this Schedule in
 relation to the person,
-(b) an authorisation given to the person under section 116A or
-116B, or
-(c) a requirement imposed under this Schedule.
+Schedule 2 -- Licensing of copyright and performers' property rights
+Part 1 -- Regulation of licensing bodies
+
+(b)    an authorisation given to the person under section 116A or
+116B,
+(c)   any of subsections (4) to (6) of section 116D, or
+(d)    a requirement imposed under this Schedule.
 (2) The regulations may in particular provide for the imposition of
 financial penalties.
 (3) The regulations may include provision--
@@ -2870,12 +3059,10 @@ the person by whom a determination within sub-paragraph (3)(a)
 falls to be made (the "adjudicator") any information that the
 adjudicator reasonably requires for the purpose of making that
 determination.
-Schedule 2 -- Licensing of copyright and performers' property rights
-Part 1 -- Regulation of licensing bodies
 
 Fees
 
-4     (1) The Secretary of State may by regulations require a licensing body
+5     (1) The Secretary of State may by regulations require a licensing body
 to which regulations under any other provision of this Schedule
 apply to pay fees to the Secretary of State.
 (2) The aggregate amount of fees payable under the regulations must
@@ -2898,135 +3085,141 @@ where--
 (a) the performer's consent would otherwise be required
 under that section, but
 (b) the right to authorise or prohibit the act is an orphan right.
-(2) An authorisation or licence under the regulations in favour of any
+Schedule 2 -- Licensing of copyright and performers' property rights
+Part 2 -- Performers' property rights
+
+(2) Where the missing rights owner is not the sole owner of the rights
+concerned, an authorisation does not affect the need for consent
+from any other owner.
+(3) An authorisation or licence under the regulations in favour of any
 person must not preclude any authorisation or licence in favour of
 another person.
-(3) The regulations may provide for the treatment of royalties or other
-sums paid in respect of an authorisation or licence, including--
+(4) The regulations must provide for the treatment of royalties or
+other sums paid in respect of an authorisation or licence,
+including--
 (a) the deduction of administrative costs;
 (b) the period for which sums must be held for the owner of a
 performer's property rights;
 (c) the treatment of sums after that period (as bona vacantia or
 otherwise).
-(4) The regulations may provide for determining the rights and
+(5) The regulations may provide for determining the rights and
 obligations of any person if an interest in a performer's property
-rights ceases to be included in an orphan rights register (see
-paragraph 1C).
-(5) The regulations may provide for the Secretary of State to
+rights ceases to be included in a register kept in accordance with
+paragraph 1D(1).
+(6) The regulations may provide for the Secretary of State to
 determine whether any requirement of the regulations for a
 person's becoming or remaining authorised has been met or
 ceased to be met.
-1B    (1) The Secretary of State may by regulations provide for authorising
+1B     (1) The Secretary of State may by regulations provide for authorising
 a licensing body to grant performers' property right licences
 (within the meaning of paragraph 1) in relation to a performer's
 property rights where the rights owner is not the body or a person
 on whose behalf the body acts.
 (2) The regulations may not authorise the grant of a licence--
-Schedule 2 -- Licensing of copyright and performers' property rights
-Part 2 -- Performers' property rights
-
-(a)   in respect of an unpublished recording, unless it is a
+(a) in respect of an unpublished recording, unless it is a
 recording made from or included in a broadcast, or
-(b)   in respect of rights excluded by notice given by the rights
+(b) in respect of rights excluded by notice given by the rights
 owner in accordance with the regulations.
-(3) Sub-paragraphs (2) to (5) of paragraph 1A apply to regulations
-under this paragraph (but sub-paragraphs (3)(b) and (c) and (4)
+(3) Sub-paragraphs (3) to (6) of paragraph 1A apply to regulations
+under this paragraph (but sub-paragraphs (4)(b) and (c) and (5)
 apply only in relation to orphan rights).
-1C (1) A right is an orphan right, for the purposes of an authorisation
-given or to be given to a person (an "authorised person") under
-paragraph 1A or 1B, if any interest in the performer's property
-rights concerned is entered in a register maintained for the
-purposes of this paragraph by that person (an "orphan rights
-register").
-(2) An authorisation in respect of an orphan right does not affect the
-need for any consent--
-(a) from the owner of an interest not entered in the authorised
-person's orphan rights register (except in the case of an
-authorisation under paragraph 1B that extends to other
-interests), or
-(b) from the owner of an interest that is entered in that
-register, if the authorisation does not apply to that interest.
-(3) An authorised person must not enter an interest in an orphan
-rights register unless the authorised person--
-(a) has complied with the requirements of sub-paragraph (8)
-in respect of that interest and has not found the owner of
-the interest, or
-(b) has reasonable grounds for believing that another person
-has complied with those requirements in respect of that
-interest and that the owner of that interest has not been
-found.
-(4) An entry in an orphan rights register relating to an interest in a
-performer's property rights must include the record kept in
-accordance with sub-paragraph (8)(c).
-(5) If an authorised person finds the owner of an interest entered in
-that authorised person's orphan rights register, the authorised
-person must remove the entry.
-(6) If in relation to an interest entered in an authorised person's
-orphan rights register, the authorised person--
-(a) is aware that the requirements of sub-paragraph (8) were
-not complied with, or
-(b) is aware of information that makes it no longer reasonable
-to rely on what was done in compliance with those
-requirements,
-the authorised person must comply as soon as possible with the
-requirements of sub-paragraph (8) or remove the entry.
-(7) A failure by an authorised person to comply with any of sub-
-paragraphs (3) to (6) in relation to an interest to which an
-authorisation applies--
+1C (1) A right is an orphan right if a person--
+(a) has carried out in accordance with regulations a diligent
+search to find or, if necessary, to identify and find, the
+owner of, or of an interest in, a performer's property rights,
+and
+(b) has published the notice required by this paragraph,
+but has not found the owner.
+(2) References to the missing rights owner in relation to orphan rights
+are references to that owner.
+(3) For the purposes of sub-paragraph (1)(a) the person carrying out
+the search must in particular--
 Schedule 2 -- Licensing of copyright and performers' property rights
 Part 2 -- Performers' property rights
 
-(a)   does not affect the authorisation in relation to that interest,
-except so far as regulations may provide, but
-(b)   is actionable as a breach of statutory duty owed to the
-owner of that interest.
-(8) The requirements of this sub-paragraph in respect of any interest
-in a performer's property rights are--
-(a) to carry out a reasonable search to find or, if necessary, to
-identify and find, the owner of the interest,
-(b) after the search, to publish notice of the proposal to enter
-the interest in an orphan rights register, in a way designed
-to bring the proposal to the attention of the owner of that
-interest, and
-(c) to keep a sufficient record of the steps taken under
-paragraphs (a) and (b) and of the results of those steps.
-(9) For the purposes of sub-paragraph (8)(a) the person carrying out
-the search must in particular--
-(a) make such use as is reasonable of sources of information,
-including sources within sub-paragraph (10), relating to
-the apparent country of origin of the recording concerned,
-and
-(b) have regard to any presumptions under section 105 that
+(a)   make such use as is reasonable of sources of information,
+including sources within sub-paragraph (4), relating to the
+apparent country of origin of the recording concerned, and
+(b)   have regard to any presumptions under section 105 that
 would apply in relation to the recording in any
 proceedings.
-(10) The sources referred to in sub-paragraph (9)(a) are--
+(4) The sources referred to in sub-paragraph (3)(a) are--
 (a) licensing bodies;
-(b) public funding bodies;
-(c) trade unions and trade associations;
-(d) systems for identifying recordings of the type concerned;
-(e) published library catalogues and indexes;
-(f) public databases, including public records that may
+(b) associations of publishers or authors;
+(c) systems for identifying works of the type concerned;
+(d) published library catalogues and indexes;
+(e) public databases, including public records that may
 indicate successors in title.
-(11) For the purposes of sub-paragraph (9)(a) a recording's apparent
+(5) For the purposes of sub-paragraph (3)(b) a recording's apparent
 country of origin is the country which the person carrying out the
 search reasonably believes is most likely to be--
 (a) the country of the recording's first publication, or
 (b) if the recording has not been published, the country with
 which its making is most closely connected.
-(12) Any guidance issued by the Secretary of State must be taken into
-account in deciding whether the requirements of sub-paragraph
-(8) have been complied with.
-(13) The Secretary of State may by regulations amend any of the
+(6) The notice required by sub-paragraph (1)(b) is notice of the
+proposal to enter the interest concerned in a register kept in
+accordance with paragraph 1D(1), published in a way designed to
+bring the proposal to the attention of the copyright owner.
+(7) The Secretary of State may by regulations amend any of the
 preceding provisions of this paragraph.
-1D        Schedule A1 applies for the purposes of paragraphs 1A and 1B as
-it applies for the purposes of sections 116A and 116B, as if
-references to copyright were references to performers' property
-rights (and section 116E accordingly applies as if references to Part
-1 included references to this Part).
+1D (1) Regulations made by the Secretary of State must provide for an
+authorisation under paragraph 1A or 1B to have effect in respect
+of an interest of a missing rights owner only if the interest is
+entered in a register kept by the authorised person (an "orphan
+rights register").
+(2) The regulations must--
+(a) specify the form of an orphan rights register and how it is
+to be kept, and
+(b) provide for an orphan rights register to be made available
+to the public.
+(3) An entry in an orphan rights register must include a sufficient
+record of the steps taken for the purposes of paragraph 1C(1)(a)
+and (b).
+(4) An authorised person must not enter an interest in an orphan
+rights register unless the authorised person--
+(a) has taken the steps referred to in paragraph 1C(1)(a) and
+(b) and has not found the owner of the interest, or
+(b) has reasonable grounds for believing that another person
+has taken those steps and that the owner of the interest has
+not been found.
 Schedule 2 -- Licensing of copyright and performers' property rights
 Part 2 -- Performers' property rights
 
-1E     (1) The powers conferred by paragraphs 1A to 1C include in
+(5) If an interest is entered in an authorised person's orphan rights
+register and the authorised person finds the owner of the interest,
+the authorised person must remove the entry.
+(6) If in relation to an interest entered in an authorised person's
+orphan rights register, the authorised person--
+(a) is aware that any of the steps referred to in paragraph
+1C(1)(a) and (b) was not taken, or
+(b) is aware of information that makes it no longer reasonable
+to rely on the steps taken,
+the authorised person must as soon as possible take those steps or
+remove the entry.
+(7) Where an interest is entered in an orphan rights register,
+regulations under paragraph 1A or 1B may provide for an
+authorisation under that paragraph to have effect in respect of that
+interest despite a failure to take steps referred to in paragraph
+1C(1)(a) or (b) or to comply with any of sub-paragraphs (4) to (6).
+(8) But a failure by an authorised person to comply with any of sub-
+paragraphs (4) to (6) is actionable as a breach of statutory duty
+owed to the owner of the interest concerned (and see paragraph 4
+of Schedule A1 as it applies by virtue of paragraph 1E).
+(9) Any guidance issued by the Secretary of State must be taken into
+account in deciding whether a person has taken the steps referred
+to in paragraph 1C(1)(a) and (b) or has complied with sub-
+paragraph (6).
+(10) The Secretary of State may by regulations amend any of the
+preceding provisions of this paragraph.
+1E          Schedule A1 applies for the purposes of paragraphs 1A to 1D as it
+applies for the purposes of sections 116A to 116D--
+(a) as if references to copyright were references to performers'
+property rights, and
+(b) as if the reference in paragraph 4(1)(c) to section 116D(4) to
+(6) were a reference to paragraph 1D(4) to (6);
+(and section 116F accordingly applies as if references to Part 1
+included references to this Part).
+1F     (1) The powers conferred by paragraphs 1A to 1D include in
 particular power--
 (a) to make incidental, supplementary or consequential
 provision;
@@ -3035,50 +3228,55 @@ provision;
 Tribunal.
 (2) The power referred to in sub-paragraph (1)(a) to make
 consequential provision includes power to amend this Part.
-(3) The power to make regulations under paragraphs 1A to 1C is
+(3) Before making provision as to requirements for a person's
+becoming or remaining authorised under paragraph 1A or 1B, the
+Secretary of State must consult the persons the Secretary of State
+thinks likely to be affected (or persons who represent such
+persons) and such other persons as the Secretary of State thinks fit.
+Schedule 2 -- Licensing of copyright and performers' property rights
+Part 2 -- Performers' property rights
+
+(4) The power to make regulations under paragraphs 1A to 1D is
 exercisable by statutory instrument.
-(4) A statutory instrument containing such regulations is subject to
+(5) A statutory instrument containing such regulations is subject to
 annulment in pursuance of a resolution of either House of
-Parliament, but that is subject to sub-paragraph (5).
-(5) Sub-paragraph (6) applies to a statutory instrument containing
+Parliament, but that is subject to sub-paragraph (6).
+(6) Sub-paragraph (7) applies to a statutory instrument containing
 any of the following--
 (a) the first regulations made under paragraph 1A;
 (b) the first regulations made under paragraph 1B;
-(c) regulations under paragraphs 1A to 1C amending
-paragraph 1C or another provision of this Part.
-(6) The statutory instrument may not be made unless a draft of the
+(c) regulations under paragraphs 1A to 1D amending any
+provision of this Part.
+(7) The statutory instrument may not be made unless a draft of the
 instrument has been laid before and approved by a resolution of
 each House of Parliament."
 
 
 
-SCHEDULE 3                                 Section 46
+SCHEDULE 3                                              Section 47
 
 REPEALS
 
-Short title and chapter                                       Extent of repeal
-Public Lending Right Act 1979                 In section 5(2), the word "and" at the end of the
-(c. 10)                                        definition of "the register".
-Video Recordings             Act     1984     Section 2(1)(c) (and the word "or" before it).
-(c. 39)                                     Section 4(6).
+Short title and chapter                                   Extent of repeal
+Public Lending Right Act 1979           In section 5(2), the word "and" at the end of the
+(c. 10)                                  definition of "the register".
+Video Recordings      Act      1984     Section 2(1)(c) (and the word "or" before it).
+(c. 39)                               Section 4(6).
 Section 8(2) and (3).
 In section 22(1), the word "and" at the end of the
 definition of "business".
-Broadcasting Act 1990 (c. 42)                 Section 14(7).
+Broadcasting Act 1990 (c. 42)           Section 14(7).
 In section 106(1A), the word "or" at the end of
 paragraph (c).
 Section 183A(7)(a) and (b).
 Section 184.
-Communications             Act       2003     In section 218(7), the words after paragraph (b).
-(c. 21)                                     Section 221.
+Communications       Act       2003     In section 218(7), the words after paragraph (b).
+(c. 21)                               Section 221.
 Section 224(3).
 In section 314(1)(a), the words from "but" to
 "that case".
-Schedule 3 -- Repeals
-
-Short title and chapter                          Extent of repeal
-Communications       Act       2003   In Schedule 15, paragraph 63 and the preceding
-(c. 21)--cont.                         heading.
+In Schedule 15, paragraph 63 and the preceding
+heading.
 Digital Economy Bill [HL]
 
 
@@ -3088,7 +3286,7 @@ A
 
 
 BILL
-[AS AMENDED IN COMMITTEE]
+[AS AMENDED ON REPORT]
 
 To make provision about the functions of the Office of Communications; to
 make provision about the online infringement of copyright, about licensing of
@@ -3105,7 +3303,7 @@ Lord Mandelson
 
 
 
-Ordered to be Printed, 8th February 2010
+Ordered to be Printed, 8th March 2010
 
 
 
@@ -3120,7 +3318,7 @@ Printed in the United Kingdom by
 The Stationery Office Limited
 £x.xx
 
-HL Bill 32                                      (xxxxxx)                                           54/5
+HL Bill 44                                      (xxxxxx)                                           54/5
 
 
 
