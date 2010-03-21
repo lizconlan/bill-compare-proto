@@ -1,6 +1,16 @@
 Digital Economy Bill [HL]
 
-[AS AMENDED ON REPORT]
+EXPLANATORY NOTES
+Explanatory notes to the Bill, prepared by the Department for Business, Innovation
+and Skills and the Department for Culture, Media and Sport, are published separately
+as Bill 89--EN.
+EUROPEAN CONVENTION ON HUMAN RIGHTS
+Secretary Ben Bradshaw has made the following statement under section 19(1)(a)  of
+the Human Rights Act 1998:
+In my view the provisions of the Digital Economy Bill [HL] are compatible with the
+Convention rights.
+Digital Economy Bill [HL]
+
 CONTENTS
 General duties of OFCOM
 1		General duties of OFCOM
@@ -70,9 +80,10 @@ Schedule 2 -- Licensing of copyright and performers' property rights
 Part 1 -- Regulation of licensing bodies
 Part 2 -- Performers' property rights
 Schedule 3 -- Repeals
+[NOTE: The words marked in bold type were inserted by the Lords to avoid
+questions of privilege.]
 A
 BILL
-[AS AMENDED ON REPORT]
 TO
 Make provision about the functions of the Office of Communications; to make
 provision about the online infringement of copyright, about licensing of
@@ -330,8 +341,8 @@ code requires the provider to do so.
 within the period of 1 month beginning with the day on which the
 provider receives the report.
 (6)	A notification under subsection (4) must include--
-(a)  a statement that it is sent under this section in response to a
-copyright infringement report;
+(a)  a statement that the notification is sent under this section in
+response to a copyright infringement report;
 (b)  the name of the copyright owner who made the report;
 (c)  a description of the apparent infringement;
 (d)  evidence of the apparent infringement that shows the
@@ -345,8 +356,8 @@ about how to obtain lawful access to copyright works;
 (h)  advice, or information enabling the subscriber to obtain advice,
 about steps that a subscriber can take to protect an internet
 access service from unauthorised use; and
-(i)	anything else that the initial obligations code requires it to
-include.
+(i)	anything else that the initial obligations code requires the
+notification to include.
 (7)	For the purposes of subsection (6)(h)  the internet service provider must
 take into account the suitability of different protection for subscribers
 in different circumstances.
@@ -561,9 +572,8 @@ be taken into account for the purposes of the notification.
 subject to subsection (6), be set by reference to any matter, including in
 particular one or more of--
 (a)  the number of copyright infringement reports;
-(b)  the time within which the reports are made;
-(c)  the time of the apparent infringements to which they relate; and
-(d)  any other matter.
+(b)  the time within which the reports are made; and
+(c)  the time of the apparent infringements to which they relate.
 (6)	The threshold applying in accordance with subsection (1)(c)  must
 operate in such a way that a copyright infringement report received by
 an internet service provider more than 12 months before a particular
@@ -573,8 +583,13 @@ into account any such report.
 (7)	The requirements concerning administration and enforcement are--
 (a)  that OFCOM have, under the code, the functions of
 administering and enforcing it, including the function of
-resolving owner-provider disputes; and
-(b)  that there are adequate arrangements under the code for the
+resolving owner-provider disputes;
+(b)  that there are adequate arrangements under the code for
+OFCOM to obtain any information or assistance from internet
+service providers or copyright owners that OFCOM reasonably
+require for the purposes of administering and enforcing the
+code; and
+(c)  that there are adequate arrangements under the code for the
 costs incurred by OFCOM in administering and enforcing the
 code to be met by internet service providers and copyright
 owners.
@@ -590,7 +605,7 @@ infringement provisions.
 (a)  is between persons who are copyright owners or internet
 service providers; and
 (b)  relates to an act or omission in relation to an initial obligation or
-the initial obligations code."
+an initial obligations code."
 9		Progress reports
 After section 124E of the Communications Act 2003 insert--
 "124F Progress reports
@@ -668,8 +683,9 @@ particular material, or limits such use;
 (c)  suspends the service provided to a subscriber; or
 (d)  limits the service provided to a subscriber in another way.
 (4)	A subscriber to an internet access service is "relevant" if the subscriber
-is a relevant subscriber to the service, within the meaning of section
-124B(3), in relation to one or more copyright owners.
+is a relevant subscriber, within the meaning of section 124B(3), in
+relation to the provider of the service and one or more copyright
+owners.
 (5)	The assessment and steps that the Secretary of State may direct
 OFCOM to carry out or take under subsection (1)	include, in
 particular--
@@ -726,7 +742,7 @@ obligations in force under section 124H, OFCOM must by order make
 a technical obligations code for the purpose of regulating those
 obligations.
 (2)	The code may be made separately from, or in combination with, any
-initial obligations code made under section 124D.
+initial obligations code under section 124D.
 (3)	A code under this section may--
 (a)	do any of the things mentioned in section 124C(3)	to (5)	or
 section 124D(5)(a)  to (g); and
@@ -772,8 +788,13 @@ achieve, they are transparent.
 (2)	The requirements concerning enforcement and related matters are--
 (a)  that OFCOM have, under the code, the functions of
 administering and enforcing it, including the function of
-resolving owner-provider disputes; and
-(b)  that there are adequate arrangements under the code for the
+resolving owner-provider disputes;
+(b)  that there are adequate arrangements under the code for
+OFCOM to obtain any information or assistance from internet
+service providers or copyright owners that OFCOM reasonably
+require for the purposes of administering and enforcing the
+code; and
+(c)  that there are adequate arrangements under the code for the
 costs incurred by OFCOM in administering and enforcing the
 code to be met by internet service providers and copyright
 owners.
@@ -791,7 +812,7 @@ copyright infringement provisions.
 (a)  is between persons who are copyright owners or internet
 service providers; and
 (b)  relates to an act or omission in relation to a technical obligation
-or the technical obligations code."
+or a technical obligations code."
 14		Subscriber appeals
 After section 124J of the Communications Act 2003 insert--
 "124K Subscriber appeals
@@ -827,7 +848,8 @@ the code or of an obligation regulated by the code.
 determined in favour of the subscriber unless the copyright owner or
 internet service provider shows that, as respects any copyright
 infringement report to which the appeal relates or by reference to
-which anything to which the appeal relates was done--
+which anything to which the appeal relates was done (or, if there is
+more than one such report, as respects each of them)--
 (a)  the apparent infringement was an infringement of copyright,
 and
 (b)  the report relates to the subscriber's IP address at the time of
@@ -843,7 +865,8 @@ infringing copyright by means of the internet access service.
 power--
 (a)  to secure so far as practicable that a subscriber is not prejudiced
 for the purposes of the copyright infringement provisions by an
-act or omission in respect of which an appeal is upheld;
+act or omission in respect of which an appeal is determined in
+favour of the subscriber;
 (b)  to make an award of compensation to be paid by a copyright
 owner or internet service provider to a subscriber affected by
 such an act or omission; and
@@ -856,7 +879,7 @@ costs to a subscriber whose appeal is successful, unless the person
 deciding the appeal is satisfied that it would be unjust to give such a
 direction having regard to all the circumstances including the conduct
 of the parties before and during the proceedings.
-(9)	In the case of a code under section 124I, the powers of the person
+(9)	In the case of a technical obligations code, the powers of the person
 determining subscriber appeals must include power--
 (a)  on an appeal in relation to a technical measure or proposed
 technical measure--
@@ -873,7 +896,7 @@ exercise of the power;
 or omission giving rise to the technical measure; and
 (d)  to remit the decision whether to confirm the technical measure,
 or any matter relating to that decision, to OFCOM.
-(10)	In the case of a code under section 124I, the code must make
+(10)	In the case of a technical obligations code, the code must make
 provision--
 (a)  enabling a determination of a subscriber appeal to be appealed
 to the First-tier Tribunal, including on grounds that it was based
@@ -881,15 +904,15 @@ on an error of fact, wrong in law or unreasonable;
 (b)  giving the First-tier Tribunal, in relation to an appeal to it, the
 powers mentioned in subsections (7)	and (9); and
 (c)  in relation to recovery of costs awarded by the Tribunal.
-(11)	In the case of a code under section 124I, the code must include
+(11)	In the case of a technical obligations code, the code must include
 provision to secure that a technical measure is not taken against a
 subscriber until--
 (a)  the period for bringing a subscriber appeal, or any further
 appeal to the First-tier Tribunal, in relation to the proposed
 measure has ended (or the subscriber has waived the right to
-appeal or abandoned any appeal); and
+appeal); and
 (b)  any such subscriber appeal or further appeal has been
-determined or otherwise disposed of."
+determined, abandoned or otherwise disposed of."
 15		Enforcement of obligations
 After section 124K of the Communications Act 2003 insert--
 "124L Enforcement of obligations
@@ -1007,8 +1030,8 @@ technical obligation or a technical obligations
 code;
 "technical measure" has the meaning given in section 124G(3);
 "technical obligation" has the meaning given in section 124G(2);
-"technical obligations code" means a code for the time being in
-force under section 124I."
+"technical obligations code" means a code in force under section
+124I."
 (2)	In section 135(3) of that Act (information required for purposes of Chapter 1
 functions), after paragraph (i)	insert--
 "(ia)	preparing a report under section 124F;
@@ -1211,8 +1234,8 @@ to be exercised by, and the powers of, the manager.
 registry's directors as are specified in the order (including
 functions exercisable only by a particular director or class of
 directors), and
-(b)  provide for any of the registry's directors to be prevented from
-exercising any of those functions.
+(b)  provide for one or more of the registry's directors to be
+prevented from exercising any of those functions.
 (3)	The order may make provision about the remuneration of the manager,
 including in particular--
 (a)  provision for the amount of the remuneration to be determined
@@ -1573,7 +1596,7 @@ in force that is of a description specified in the order is".
 (17)	In subsection (7), for "Channel 3 licences" substitute "a Channel 3 licence".
 (18)	In subsection (11), in the definition of "initial licensing period"--
 (a)  after ""initial licensing period"" insert ", in relation to a licence,", and
-(b)  at the end (but before "and")  insert "for that type of licence".
+(b)  at the end (but before "and") insert "for that type of licence".
 27		Report by OFCOM on public teletext service
 After section 218 of the Communications Act 2003 insert--
 "218A Duty to report on public teletext service
@@ -2343,17 +2366,41 @@ whether any requirement of the regulations for a person's becoming or
 remaining authorised has been met or ceased to be met.
 116B Extended licensing schemes
 (1)	The Secretary of State may by regulations provide for authorising a
-licensing body to grant copyright licences (within the meaning of
-section 116) in respect of works in which copyright is not owned by the
-body or a person on whose behalf the body acts.
+licensing body to grant copyright licences in respect of works in which
+copyright is not owned by the body or a person on whose behalf the
+body acts.
 (2)	The regulations may not authorise the grant of a licence--
 (a)  in respect of an unpublished work, unless it is a broadcast or a
 work included in a broadcast, or
 (b)  in respect of rights excluded by notice given by the copyright
 owner in accordance with the regulations.
-(3)	Subsections (3) to (6) of section 116A apply to regulations under this
+(3)	The regulations must provide for the factors to be taken into account in
+deciding whether to authorise a licensing body to grant copyright
+licences in respect of works to include--
+(a)  the likely effect of the authorisation on--
+(i)	authors of the works,
+(ii)	members of the body,
+(iii)	copyright owners on whose behalf the licensing body
+would be entitled to act pursuant to the authorisation,
+and
+(iv)	licensees and potential licensees of the aspects of
+copyright that would be the subject of the authorisation,
+and
+(b)  the extent to which the licensing body is entitled to negotiate or
+grant copyright licences in respect of similar works, other than
+under an authorisation under this section.
+(4)	Subsections (3) to (6) of section 116A apply to regulations under this
 section (but subsections (4)(b)	and (c)	and (5)	apply only in relation to
 an orphan work).
+(5)	In this section--
+"copyright licences" has the same meaning as in section 116;
+"member", in relation to a licensing body, means --
+(a)  a copyright owner on whose behalf the body is
+authorised to negotiate or grant licences, other than
+under an authorisation under this section, and
+(b)  a person other than the copyright owner who is or
+would be entitled to royalties or other sums paid in
+respect of a copyright licence granted by the body.
 116C Meaning of "orphan work"
 (1)	A work is an orphan work if a person--
 (a)  has carried out a diligent search to find or, if necessary, to
@@ -2377,13 +2424,13 @@ would apply in relation to the work in any proceedings.
 (d)  published library catalogues and indexes;
 (e)  public databases, including public records that may indicate
 successors in title.
-(5)	For the purposes of subsection (3)(b)  a work's apparent country of
+(5)	For the purposes of subsection (3)(a)  a work's apparent country of
 origin is the country which the person carrying out the search
 reasonably believes is most likely to be--
 (a)  the country of the work's first publication, or
 (b)  if the work has not been published, the country with which its
 making is most closely connected.
-(6)	The notice required by subsection (1)(a)  is notice of the proposal to
+(6)	The notice required by subsection (1)(b)  is notice of the proposal to
 enter the interest concerned in a register kept in accordance with
 section 116D(1), published in a way designed to bring the proposal to
 the attention of the owner of the interest.
@@ -2627,7 +2674,11 @@ those entries), and
 (d)  section 45.
 (4)	The Secretary of State may appoint different days for different purposes.
 50		Short title
-This Act may be cited as the Digital Economy Act 2010.
+(1)	This Act may be cited as the Digital Economy Act 2010.
+(2)	Nothing in this Act shall impose any charge on the people or on public
+funds, or vary the amount or incidence of or otherwise alter any such charge
+in any manner, or affect the assessment, levying, administration or
+application of any money raised by any such charge.
 Schedule 1 -- Classification of video games etc: supplementary provision
 SCHEDULES
 SCHEDULE 1		Section 42
@@ -2791,8 +2842,8 @@ protecting the interests of copyright owners, licensees,
 prospective licensees or the public,
 Schedule 2 -- Licensing of copyright and performers' property rights
 Part 1 -- Regulation of licensing bodies
-require the licensing body or other person to adopt a code of
-practice which complies with requirements set out in the
+by regulations require the licensing body or other person to adopt
+a code of practice which complies with requirements set out in the
 regulations.
 (2)	The regulations may provide that in the case of a licensing body or
 other person that fails to adopt a code of practice in accordance
@@ -2833,17 +2884,19 @@ sums paid in respect of a licence;
 (b)  calculation of payments to copyright owners;
 (c)  arrangements for holding sums for copyright owners;
 (d)  provision of information by the authorised person.
+(3)	In this paragraph "member", in relation to a licensing body, has
+the same meaning as in section 116B.
+Schedule 2 -- Licensing of copyright and performers' property rights
+Part 1 -- Regulation of licensing bodies
 Enforcement
 4		(1)	The Secretary of State may by regulations provide for the
 consequences of a failure by a licensing body or other person to
 comply with--
 (a)  a code of practice which has effect under this Schedule in
 relation to the person,
-Schedule 2 -- Licensing of copyright and performers' property rights
-Part 1 -- Regulation of licensing bodies
 (b)  an authorisation given to the person under section 116A or
 116B,
-(c)	 any of subsections (4)	to (6)	of section 116D, or
+(c)	any of subsections (4)	to (6)	of section 116D, or
 (d)  a requirement imposed under this Schedule.
 (2)	The regulations may in particular provide for the imposition of
 financial penalties.
@@ -2874,6 +2927,8 @@ the operation of regulations under this Schedule."
 PART 2
 PERFORMERS' PROPERTY RIGHTS
 2		In Schedule 2A to the Copyright, Designs and Patents Act 1988 (licensing of
+Schedule 2 -- Licensing of copyright and performers' property rights
+Part 2 -- Performers' property rights
 performers' property rights) after paragraph 1 insert--
 "Additional licensing and regulation
 1A (1)	The Secretary of State may by regulations provide for authorising
@@ -2883,8 +2938,6 @@ where--
 (a)  the performer's consent would otherwise be required
 under that section, but
 (b)  the right to authorise or prohibit the act is an orphan right.
-Schedule 2 -- Licensing of copyright and performers' property rights
-Part 2 -- Performers' property rights
 (2)	Where the missing rights owner is not the sole owner of the rights
 concerned, an authorisation does not affect the need for consent
 from any other owner.
@@ -2908,31 +2961,57 @@ determine whether any requirement of the regulations for a
 person's becoming or remaining authorised has been met or
 ceased to be met.
 1B     (1)	The Secretary of State may by regulations provide for authorising
-a licensing body to grant performers' property right licences
-(within the meaning of paragraph 1) in relation to a performer's
-property rights where the rights owner is not the body or a person
-on whose behalf the body acts.
+a licensing body to grant performers' property right licences in
+relation to a performer's property rights where the rights owner is
+not the body or a person on whose behalf the body acts.
 (2)	The regulations may not authorise the grant of a licence--
 (a)  in respect of an unpublished recording, unless it is a
 recording made from or included in a broadcast, or
 (b)  in respect of rights excluded by notice given by the rights
 owner in accordance with the regulations.
-(3)	Sub-paragraphs (3)	to (6)	of paragraph 1A apply to regulations
+(3)	The regulations must provide for the factors to be taken into
+account in deciding whether to authorise a licensing body to grant
+licences in relation to a performer's property rights to include--
+(a)  the likely effect of the authorisation on--
+(i)	the performer,
+(ii)	members of the body,
+Schedule 2 -- Licensing of copyright and performers' property rights
+Part 2 -- Performers' property rights
+(iii)	owners of rights on whose behalf the licensing
+body would be entitled to act pursuant to the
+authorisation, and
+(iv)	licensees and potential licensees of the aspects of
+rights that would be the subject of the
+authorisation, and
+(b)  the extent to which the licensing body is entitled to
+negotiate or grant performers' property right licences in
+relation to similar rights, other than under an authorisation
+under this paragraph.
+(4)	Sub-paragraphs (3)	to (6)	of paragraph 1A apply to regulations
 under this paragraph (but sub-paragraphs (4)(b)  and (c)  and (5)
 apply only in relation to orphan rights).
+(5)	In this paragraph--
+"member", in relation to a licensing body, means--
+(a)  an owner of a performer's property rights on whose
+behalf the body is authorised to negotiate or grant
+licences, other than under an authorisation under this
+paragraph, and
+(b)  a person other than the owner of a performer's
+property rights who is or would be entitled to
+royalties or other sums paid in respect of a licence in
+relation to the rights granted by the body;
+"performers' property right licences" has the same meaning
+as in paragraph 1.
 1C (1)	A right is an orphan right if a person--
-(a)  has carried out in accordance with regulations a diligent
-search to find or, if necessary, to identify and find, the
-owner of, or of an interest in, a performer's property rights,
-and
+(a)  has carried out a diligent search to find or, if necessary, to
+identify and find, the owner of, or of an interest in, a
+performer's property rights, and
 (b)  has published the notice required by this paragraph,
 but has not found the owner.
 (2)	References to the missing rights owner in relation to orphan rights
 are references to that owner.
 (3)	For the purposes of sub-paragraph (1)(a)	the person carrying out
 the search must in particular--
-Schedule 2 -- Licensing of copyright and performers' property rights
-Part 2 -- Performers' property rights
 (a)  make such use as is reasonable of sources of information,
 including sources within sub-paragraph (4), relating to the
 apparent country of origin of the recording concerned, and
@@ -2941,12 +3020,15 @@ would apply in relation to the recording in any
 proceedings.
 (4)	The sources referred to in sub-paragraph (3)(a)	are--
 (a)  licensing bodies;
-(b)  associations of publishers or authors;
-(c)  systems for identifying works of the type concerned;
-(d)  published library catalogues and indexes;
-(e)  public databases, including public records that may
+(b)  public funding bodies;
+(c)  trade unions and trade associations;
+(d)  systems for identifying recordings of the type concerned;
+(e)  published library catalogues and indexes;
+Schedule 2 -- Licensing of copyright and performers' property rights
+Part 2 -- Performers' property rights
+(f)  public databases, including public records that may
 indicate successors in title.
-(5)	For the purposes of sub-paragraph (3)(b)	a recording's apparent
+(5)	For the purposes of sub-paragraph (3)(a)	a recording's apparent
 country of origin is the country which the person carrying out the
 search reasonably believes is most likely to be--
 (a)  the country of the recording's first publication, or
@@ -2955,7 +3037,7 @@ which its making is most closely connected.
 (6)	The notice required by sub-paragraph (1)(b)	is notice of the
 proposal to enter the interest concerned in a register kept in
 accordance with paragraph 1D(1), published in a way designed to
-bring the proposal to the attention of the copyright owner.
+bring the proposal to the attention of the owner of the interest.
 (7)	The Secretary of State may by regulations amend any of the
 preceding provisions of this paragraph.
 1D (1)	Regulations made by the Secretary of State must provide for an
@@ -2978,8 +3060,6 @@ rights register unless the authorised person--
 (b)  has reasonable grounds for believing that another person
 has taken those steps and that the owner of the interest has
 not been found.
-Schedule 2 -- Licensing of copyright and performers' property rights
-Part 2 -- Performers' property rights
 (5)	If an interest is entered in an authorised person's orphan rights
 register and the authorised person finds the owner of the interest,
 the authorised person must remove the entry.
@@ -2993,6 +3073,8 @@ the authorised person must as soon as possible take those steps or
 remove the entry.
 (7)	Where an interest is entered in an orphan rights register,
 regulations under paragraph 1A or 1B may provide for an
+Schedule 2 -- Licensing of copyright and performers' property rights
+Part 2 -- Performers' property rights
 authorisation under that paragraph to have effect in respect of that
 interest despite a failure to take steps referred to in paragraph
 1C(1)(a)	or (b)	or to comply with any of sub-paragraphs (4)	to (6).
@@ -3003,18 +3085,20 @@ of Schedule A1 as it applies by virtue of paragraph 1E).
 (9)	Any guidance issued by the Secretary of State must be taken into
 account in deciding whether a person has taken the steps referred
 to in paragraph 1C(1)(a)  and (b)  or has complied with sub-
-paragraph (6).
+paragraph (3).
 (10)	The Secretary of State may by regulations amend any of the
 preceding provisions of this paragraph.
-1E          Schedule A1 applies for the purposes of paragraphs 1A to 1D as it
+1E        Schedule A1 applies for the purposes of paragraphs 1A to 1D as it
 applies for the purposes of sections 116A to 116D--
 (a)  as if references to copyright were references to performers'
-property rights, and
-(b)	as if the reference in paragraph 4(1)(c)	to section 116D(4)	to
+property rights,
+(b)	as if the reference in paragraph 3(3)	to section 116B were a
+reference to paragraph 1B, and
+(c)	as if the reference in paragraph 4(1)(c)	to section 116D(4)	to
 (6)	were a reference to paragraph 1D(4)	to (6);
 (and section 116F accordingly applies as if references to Part 1
 included references to this Part).
-1F     (1)	The powers conferred by paragraphs 1A to 1D include in
+1F    (1)	The powers conferred by paragraphs 1A to 1D include in
 particular power--
 (a)  to make incidental, supplementary or consequential
 provision;
@@ -3028,8 +3112,6 @@ becoming or remaining authorised under paragraph 1A or 1B, the
 Secretary of State must consult the persons the Secretary of State
 thinks likely to be affected (or persons who represent such
 persons) and such other persons as the Secretary of State thinks fit.
-Schedule 2 -- Licensing of copyright and performers' property rights
-Part 2 -- Performers' property rights
 (4)	The power to make regulations under paragraphs 1A to 1D is
 exercisable by statutory instrument.
 (5)	A statutory instrument containing such regulations is subject to
@@ -3039,6 +3121,8 @@ Parliament, but that is subject to sub-paragraph (6).
 any of the following--
 (a)  the first regulations made under paragraph 1A;
 (b)  the first regulations made under paragraph 1B;
+Schedule 2 -- Licensing of copyright and performers' property rights
+Part 2 -- Performers' property rights
 (c)  regulations under paragraphs 1A to 1D amending any
 provision of this Part.
 (7)	The statutory instrument may not be made unless a draft of the
@@ -3070,7 +3154,6 @@ Digital Economy Bill [HL]
 
 A
 BILL
-[AS AMENDED ON REPORT]
 To make provision about the functions of the Office of Communications; to
 make provision about the online infringement of copyright, about licensing of
 copyright and performers' rights and about penalties for infringement; to
@@ -3080,14 +3163,13 @@ about the regulation of television and radio services; to make provision about
 the regulation of the use of the electromagnetic spectrum; to amend the Video
 Recordings Act 1984; to make provision about public lending right in relation
 to electronic publications; and for connected purposes.
-Lord Mandelson
-Ordered to be Printed, 8th March 2010
-© Parliamentary copyright House of Lords 2010
+Brought from the Lords, 16 March 2010
+© Parliamentary copyright House of Lords and House of Commons 2010
 Applications for reproduction should be made in writing to the Copyright Unit,
 Her Majesty's Stationery Office, St. Clements House, 2-16 Colegate, Norwich, NR3 1BQ
-PUBLISHED BY AUTHORITY OF THE HOUSE OF LORDS
+PUBLISHED BY AUTHORITY OF THE HOUSE OF LORDS AND HOUSE OF COMMONS
 LONDON -- THE STATIONERY OFFICE LIMITED
 Printed in the United Kingdom by
 The Stationery Office Limited
 £x.xx
-HL Bill 44		(xxxxxx)		     54/5
+Bill 89		(xxxxxx)		 54/5
